@@ -1,7 +1,10 @@
-# Foundations of Cybersecurity
+# Cybercrime, Cyberespionage, and Cyberwar
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is an undergraduate course providing an introduction to some key cybersecurity topics. The material is used for the _Cybersecurity Engineering (18200)_ course currently taught in the CS curriculum at UC3M.
+
+**TBD EVERYTHING BELOW*
+
+This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage, and cyberwar. The material is used for the _Cybercrime, Cyberespionage, and Cyberwar (12395)_ course currently taught in the CS curriculum at UC3M.
 
 The course covers user authentication, access control systems, network security, malware, vulnerabilities, and regulation. The purpose is to provide a gentle --though practical-- introduction to the main principles, concepts and tools in these topics. The course design aims at finding a good balance between breadth and depth of learning for a CS student who approaches cybersecurity with little-to-none previous backgound. As a result, the treatment of some topis is often very general, limited, and with some obvious omissions. The material can be extended with some extra effort to make up for these limitations.
 
