@@ -1,8 +1,34 @@
-# Cybercrime, Cyberespionage, and Cyberwar
+# Cybercrime
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
 **[jet] ADAPT EVERYTHING BELOW*
+
+
+---
+Names:
+* Cyberthreats
+* Cybercrime
+* Cyberattacks
+
+
+Check:
+* Search for other uni courses on cybercrime, cyberthreats, etc.
+* https://ec.europa.eu/home-affairs/what-we-do/policies/cybercrime_en
+* https://www.fbi.gov/investigate/cyber
+* https://www.tandfonline.com/doi/pdf/10.1080/15614263.2018.1507888
+* cyber-dependent and cyber-enabled:
+    * https://www.bedfordshire.police.uk/information-and-services/Crime/Cyber-crime-and-online-safety/What-is-cyber-crime
+    * https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance
+    * https://www.victims-first.org.uk/crime-info/guidance-and-support/cyber-crime/
+    * https://www.unodc.org/unodc/en/cybercrime/global-programme-cybercrime.html 
+* https://www.unodc.org/e4j/en/tertiary/cybercrime.html
+    * https://www.unodc.org/e4j/en/cybercrime/module-1/index.html
+    * https://www.unodc.org/e4j/en/cybercrime/module-2/key-issues/intro.html
+* 
+
+---
+
 
 This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage, and cyberwar. The material is used for the _Cybercrime, Cyberespionage, and Cyberwar (12395)_ course currently taught in the CS curriculum at UC3M.
 
