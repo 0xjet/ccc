@@ -31,7 +31,9 @@ Check:
 * https://www.unodc.org/e4j/en/tertiary/cybercrime.html
     * https://www.unodc.org/e4j/en/cybercrime/module-1/index.html
     * https://www.unodc.org/e4j/en/cybercrime/module-2/key-issues/intro.html
-* 
+* ENISA reports: https://www.enisa.europa.eu/topics/threat-risk-management?tab=articles
+    * https://www.enisa.europa.eu/topics/threat-risk-management?tab=publications
+    * 
 
 ---
 
