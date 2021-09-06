@@ -1,4 +1,4 @@
-# Cybercrime
+# A Cybercrime Course
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
@@ -14,6 +14,12 @@ Names:
 
 Check:
 * Search for other uni courses on cybercrime, cyberthreats, etc.
+    * https://www.google.com/search?q=A+cybercrime+course&oq=A+cybercrime+course&aqs=chrome..69i57j69i60.1868j0j1&sourceid=chrome&ie=UTF-8
+    * https://london.ac.uk/courses/cybercrime
+    * https://www.udemy.com/course/introduction-to-cybercrime/?utm_source=adwords&utm_medium=udemyads&utm_campaign=CyberSecurity_v.PROF_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_120822692101_._ad_535397282079_._kw__._de_c_._dm__._pl__._ti_dsa-1187335280558_._li_2724_._pd__._&matchtype=b
+    * https://www.cepol.europa.eu/tags/cybercrime
+    * https://www.coursera.org/lecture/cyber-conflicts/introduction-to-cybercrime-and-fundamental-issues-xndSq
+    * 
 * https://ec.europa.eu/home-affairs/what-we-do/policies/cybercrime_en
 * https://www.fbi.gov/investigate/cyber
 * https://www.tandfonline.com/doi/pdf/10.1080/15614263.2018.1507888
