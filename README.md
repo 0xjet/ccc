@@ -2,7 +2,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
-**TBD EVERYTHING BELOW*
+**[jet] ADAPT EVERYTHING BELOW*
 
 This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage, and cyberwar. The material is used for the _Cybercrime, Cyberespionage, and Cyberwar (12395)_ course currently taught in the CS curriculum at UC3M.
 
