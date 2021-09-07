@@ -13,7 +13,8 @@ The course provides a gentle, not very technical introduction to various current
 The main goal of the course is to provide students who approach cybersecurity with little-to-none previous backgound with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences or might miss some key topics. The material can be extended with some extra effort to make up for these limitations.
 
 ---
-**[jet] revise this**
+**jet: revise this**
+
 For each topic, this repository contains:
 * A **contents file** providing a description of the contents covered in the topic and links to supplemental material
 * A **problem set** to reinforce knowledge and skills
@@ -29,11 +30,6 @@ There is also a set of [labs](https://github.com/0xjet/sec101/tree/main/labs) th
 
 
 ---
-Names:
-* Cyberthreats
-* Cybercrime
-* Cyberattacks
-
 
 Check:
 * Search for other uni courses on cybercrime, cyberthreats, etc.
