@@ -17,9 +17,9 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((ht
 * History of government surveillance
 * Privacy regulation
 
-Note: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
+**Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
 
-
+**Note**: See links in TODO files!
 
 ## Readings
 
