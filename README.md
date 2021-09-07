@@ -33,6 +33,7 @@ There is also a set of [labs](https://github.com/0xjet/sec101/tree/main/labs) th
 
 Check:
 * Search for other uni courses on cybercrime, cyberthreats, etc.
+    * https://www.cl.cam.ac.uk/teaching/2021/R254/materials.html
     * https://www.google.com/search?q=A+cybercrime+course&oq=A+cybercrime+course&aqs=chrome..69i57j69i60.1868j0j1&sourceid=chrome&ie=UTF-8
     * https://london.ac.uk/courses/cybercrime
     * https://www.udemy.com/course/introduction-to-cybercrime/?utm_source=adwords&utm_medium=udemyads&utm_campaign=CyberSecurity_v.PROF_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_120822692101_._ad_535397282079_._kw__._de_c_._dm__._pl__._ti_dsa-1187335280558_._li_2724_._pd__._&matchtype=b
