@@ -1,5 +1,28 @@
-# A Cybercrime Course
+# Crime, Conflicts and Espionage in Cyberspace
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage and cyberconflicts. The material is used for the _"Cybercrime, Cyberespionage, and Cyberwar"_ course currently taught in the [Master in Cybersecurity](https://www.uc3m.es/master/cybersecurity) at [UC3M](https://www.uc3m.es/Home).
+
+The course provides a gentle, not very technical introduction to various current security and privacy topics, including
+* some bits of history,
+* opponents and the current cyberthreat landscape,
+* the underground economy of cybercrime,
+* surveillance, including commercial surveillance, and
+* the security of industrial control systems and IoT devices.
+
+The main goal of the course is to provide students who approach cybersecurity with little-to-none previous backgound with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences or might miss some key topics. The material can be extended with some extra effort to make up for these limitations.
+
+---
+**[jet] revise this**
+For each topic, this repository contains:
+* A **contents file** providing a description of the contents covered in the topic and links to supplemental material
+* A **problem set** to reinforce knowledge and skills
+* A **slide deck** used for presentations during lectures and labs 
+
+There is also a set of [labs](https://github.com/0xjet/sec101/tree/main/labs) that are used as part of the assessment (see details below).
+---
+
+
 
 
 **[jet] ADAPT EVERYTHING BELOW*
@@ -38,16 +61,7 @@ Check:
 ---
 
 
-This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage, and cyberwar. The material is used for the _Cybercrime, Cyberespionage, and Cyberwar (12395)_ course currently taught in the CS curriculum at UC3M.
 
-The course covers user authentication, access control systems, network security, malware, vulnerabilities, and regulation. The purpose is to provide a gentle --though practical-- introduction to the main principles, concepts and tools in these topics. The course design aims at finding a good balance between breadth and depth of learning for a CS student who approaches cybersecurity with little-to-none previous backgound. As a result, the treatment of some topis is often very general, limited, and with some obvious omissions. The material can be extended with some extra effort to make up for these limitations.
-
-For each topic, this repository contains:
-* A **contents file** providing a description of the contents covered in the topic and links to supplemental material
-* A **problem set** to reinforce knowledge and skills
-* A **slide deck** used for presentations during lectures and labs 
-
-There is also a set of [labs](https://github.com/0xjet/sec101/tree/main/labs) that are used as part of the assessment (see details below).
 
 
 ## Prerequisites
