@@ -1,6 +1,19 @@
 # Surveillance
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+This module of the course on Cybercrime, Cyberespionage and Cyberconflicts examines the topics of privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a historical overview of these topics and identify current debates and conflicting views.
+
+**Learning Outcomes**
+* Critically examine 
+ 
+Learning Outcomes
+Critically examine hacktivism, cyberespionage, cyberterrorism, cyberwarfare, information warfare, disinformation, and electoral fraud
+Critically discuss and analyse the legal frameworks governing these activities
+Critically assess the lawfulness of responses to these activities
+Propose lawful responses to some of these activities
+
+
+
 This is an graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage and cyberconflicts. The material is used for the _"Cybercrime, Cyberespionage, and Cyberwar"_ course currently taught in the [Master in Cybersecurity](https://www.uc3m.es/master/cybersecurity) at [UC3M](https://www.uc3m.es/Home).
 
 The course provides a gentle, not very technical introduction to various current security and privacy topics, including
