@@ -29,10 +29,19 @@ privacy and surveillance as practiced by governments and commercial firms. This 
 
 ## Readings
 
-* ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy)
-* Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts)
+*. History of the Internet
+    * Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Lawrence G. Roberts, Stephen Wolff. [A Brief History of the Internet](https://sites.cs.ucsb.edu/~almeroth/classes/F10.176A/papers/internet-history-09.pdf).
+    * Robert H. Zakon. [Hobbes' Internet Timeline 25](https://www.zakon.org/robert/internet/timeline/)
+    * Internet Society's [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/) series
 
-Activity: classifying security incidents
+* Security incidents
+    * ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy)
+    * Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts)
+
+
+## Activities
+
+### Classifying security incidents
 
 Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values:
 
