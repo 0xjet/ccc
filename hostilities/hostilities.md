@@ -1,7 +1,14 @@
-# Surveillance
+# Hostilities
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((https://github.com/0xjet/ccc) examines the topics of privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topics of **TBD**
+
+privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
 **Learning Outcomes**
 * Critically examine **TBD**
@@ -19,14 +26,23 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((ht
 
 **Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
 
-**Note**: See links in TODO files!
 
 ## Readings
 
-* Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
-    * Sections 26.1, 26.2 and 26.6 are mandatory.
-    * The rest of the chapter is optional, but encouraged.
+* ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy)
+* Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts)
 
+Activity: classifying security incidents
+
+Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values:
+
+>Security incidents often don't fall into one single classification. For example an incident can involve an attacker conducting multiple login attempts (Intrusion Attempts / Login attempts) with the purpose of gaining -unauthorized- access to information (Information Content Security / Unauthorised access to information). Another example is where an infected system (Malicious Code / Infected System) communicates with an external server to receive commands (Malicious Code / C2 Server).
+>
+>When multiple values apply, the primary classification of an incident is the intent of the attacker, whereas the secondary classification can then be the means, or the transport mechanism, used to conduct the attack. For the above example, the infected system is the primary classification, where the C2 Server would be the secondary classification.
+>
+>Linking this to the Unified Kill Chain the primary classification is in fact the action on objectives. The secondary classifications are then those actions taken to get the initial foothold or to do network propagation.
+>
+>Note that in some cases it's worth splitting an incident into different sub-incidents, where each incident covers one of the different steps.
 
 
 
