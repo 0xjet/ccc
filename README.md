@@ -1,7 +1,7 @@
 # Crime, Conflicts and Espionage in Cyberspace
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-This is a graduate course providing an introduction to some topics in the areas of cybercrime, cyberespionage and cyberconflicts. The material is used for the _"Cybercrime, Cyberespionage, and Cyberwar"_ course currently taught in the [Master in Cybersecurity](https://www.uc3m.es/master/cybersecurity) at [UC3M](https://www.uc3m.es/Home).
+This is a graduate course providing an introduction to some topics in the areas of crime, espionage and conflicts in cyberspace. The material is used for the _"Cybercrime, Cyberespionage, and Cyberwar"_ course currently taught in the [Master in Cybersecurity](https://www.uc3m.es/master/cybersecurity) at [UC3M](https://www.uc3m.es/Home).
 
 The course provides a gentle, not very technical introduction to various current security and privacy topics, including
 * some bits of history,
