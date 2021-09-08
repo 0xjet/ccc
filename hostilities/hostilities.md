@@ -11,9 +11,10 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
 **Learning Outcomes**
-* Critically examine **TBD**
-* Identify and analyze the technical, legal, and ethical challenges relating to surveillance in cyberspace
-* Discuss and analyze surveillance trends **TBD**
+* Understand the history and development of the Internet and its security and privacy problems
+* Identify and analyze types of security incidents
+* Critically examine the different types of opponents 
+* Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace
 
 
 [//]: # (jet - verbs: {define, examine, identify, analyze, discuss, assess, propose})
@@ -24,7 +25,6 @@ privacy and surveillance as practiced by governments and commercial firms. This 
 * History of government surveillance
 * Privacy regulation
 
-**Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
 
 
 ## Readings
