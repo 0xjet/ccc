@@ -34,8 +34,8 @@ privacy and surveillance as practiced by governments and commercial firms. This 
     * Robert H. Zakon. [Hobbes' Internet Timeline 25](https://www.zakon.org/robert/internet/timeline/).
     * Internet Society's [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/) series.
 * Security incidents
-    * ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy)
-    * Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts)
+    * ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy).
+    * Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts).
 * Opponents
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html)
 
