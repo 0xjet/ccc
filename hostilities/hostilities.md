@@ -11,13 +11,13 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
 **Learning Outcomes**
-* Understand the history and development of the Internet and its security and privacy problems
-* Identify and analyze types of security incidents
-* Critically examine the different types of opponents 
-* Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace
+* Understand the history and development of the Internet and its security and privacy problems.
+* Recognize different types of security incidents as classified by taxonomies used by CSIRTs.
+* Know the different types of opponents and their intent, motivations and means.
+* Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace.
 
 
-[//]: # (jet - verbs: {define, examine, identify, analyze, discuss, assess, propose})
+[//]: # (jet - verbs: {define, examine, identify, analyze, discuss, assess, propose, understand})
 
 
 ## Topics / draft of contents
@@ -37,7 +37,7 @@ privacy and surveillance as practiced by governments and commercial firms. This 
     * ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy)
     * Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts)
 * Opponents
-    * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html).
+    * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html)
 
 
 
