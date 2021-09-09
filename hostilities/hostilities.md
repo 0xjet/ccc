@@ -6,18 +6,15 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topics of **TBD**
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of why cyberspace is such a hostile environment. It provides a short introduction to the history of the Internet and its major themes. It then discusses types of threats and abuse (the _what_), opponents (the _who_) and their intent (the _why_). The module concludes with a debate on how we got here and why security is hard.
 
-privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
 **Learning Outcomes**
 * Understand the history and development of the Internet and its security and privacy problems.
 * Recognize different types of security incidents as classified by taxonomies used by CSIRTs.
-* Know the different types of opponents and their intent, motivations and means.
+* Know the different types of opponents and their intent, motivations, and means.
 * Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace.
 
-
-[//]: # (jet - verbs: {define, examine, identify, analyze, discuss, assess, propose, understand})
 
 
 ## Topics / draft of contents
