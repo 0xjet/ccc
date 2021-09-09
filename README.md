@@ -29,46 +29,6 @@ There is also a set of [labs](https://github.com/0xjet/sec101/tree/main/labs) th
 **[jet] ADAPT EVERYTHING BELOW*
 
 
----
-
-Check:
-* Search for other uni courses on cybercrime, cyberthreats, etc.
-    * https://www.cl.cam.ac.uk/teaching/2021/R254/materials.html
-    * https://www.google.com/search?q=A+cybercrime+course&oq=A+cybercrime+course&aqs=chrome..69i57j69i60.1868j0j1&sourceid=chrome&ie=UTF-8
-    * https://london.ac.uk/courses/cybercrime
-    * https://www.udemy.com/course/introduction-to-cybercrime/?utm_source=adwords&utm_medium=udemyads&utm_campaign=CyberSecurity_v.PROF_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_120822692101_._ad_535397282079_._kw__._de_c_._dm__._pl__._ti_dsa-1187335280558_._li_2724_._pd__._&matchtype=b
-    * https://www.cepol.europa.eu/tags/cybercrime
-    * https://www.coursera.org/lecture/cyber-conflicts/introduction-to-cybercrime-and-fundamental-issues-xndSq
-    * 
-* https://ec.europa.eu/home-affairs/what-we-do/policies/cybercrime_en
-* https://www.fbi.gov/investigate/cyber
-* https://www.tandfonline.com/doi/pdf/10.1080/15614263.2018.1507888
-* cyber-dependent and cyber-enabled:
-    * https://www.bedfordshire.police.uk/information-and-services/Crime/Cyber-crime-and-online-safety/What-is-cyber-crime
-    * https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance
-    * https://www.victims-first.org.uk/crime-info/guidance-and-support/cyber-crime/
-    * https://www.unodc.org/unodc/en/cybercrime/global-programme-cybercrime.html 
-* https://www.unodc.org/e4j/en/tertiary/cybercrime.html
-    * https://www.unodc.org/e4j/en/cybercrime/module-1/index.html
-    * https://www.unodc.org/e4j/en/cybercrime/module-2/key-issues/intro.html
-* ENISA reports: https://www.enisa.europa.eu/topics/threat-risk-management?tab=articles
-    * https://www.enisa.europa.eu/topics/threat-risk-management?tab=publications
-    * 
-
----
-
-
-
-
-
-## Prerequisites
-
-Parts of the course require the student to have some basic grasp of:
-* Computer programming
-* Operating systems
-* Networking, especially TCP/IP
-* Web systems
-* Cryptography
 
 
 ## Syllabus
@@ -193,4 +153,40 @@ This work is licensed under a
 ## Contact
 
 [Contact me](https://0xjet.github.io/) for any comments, questions or suggestions on this material.
+
+
+
+
+
+
+---
+MATERIAL TO BE MOVED ELSEWHERE (CYBERCRIME)
+
+Check:
+* Search for other uni courses on cybercrime, cyberthreats, etc.
+    * https://www.cl.cam.ac.uk/teaching/2021/R254/materials.html
+    * https://www.google.com/search?q=A+cybercrime+course&oq=A+cybercrime+course&aqs=chrome..69i57j69i60.1868j0j1&sourceid=chrome&ie=UTF-8
+    * https://london.ac.uk/courses/cybercrime
+    * https://www.udemy.com/course/introduction-to-cybercrime/?utm_source=adwords&utm_medium=udemyads&utm_campaign=CyberSecurity_v.PROF_la.EN_cc.ROW&utm_content=deal4584&utm_term=_._ag_120822692101_._ad_535397282079_._kw__._de_c_._dm__._pl__._ti_dsa-1187335280558_._li_2724_._pd__._&matchtype=b
+    * https://www.cepol.europa.eu/tags/cybercrime
+    * https://www.coursera.org/lecture/cyber-conflicts/introduction-to-cybercrime-and-fundamental-issues-xndSq
+    * 
+* https://ec.europa.eu/home-affairs/what-we-do/policies/cybercrime_en
+* https://www.fbi.gov/investigate/cyber
+* https://www.tandfonline.com/doi/pdf/10.1080/15614263.2018.1507888
+* cyber-dependent and cyber-enabled:
+    * https://www.bedfordshire.police.uk/information-and-services/Crime/Cyber-crime-and-online-safety/What-is-cyber-crime
+    * https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance
+    * https://www.victims-first.org.uk/crime-info/guidance-and-support/cyber-crime/
+    * https://www.unodc.org/unodc/en/cybercrime/global-programme-cybercrime.html 
+* https://www.unodc.org/e4j/en/tertiary/cybercrime.html
+    * https://www.unodc.org/e4j/en/cybercrime/module-1/index.html
+    * https://www.unodc.org/e4j/en/cybercrime/module-2/key-issues/intro.html
+* ENISA reports: https://www.enisa.europa.eu/topics/threat-risk-management?tab=articles
+    * https://www.enisa.europa.eu/topics/threat-risk-management?tab=publications
+    * 
+
+---
+
+
 
