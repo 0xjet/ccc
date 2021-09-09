@@ -56,58 +56,22 @@ For each topic, this repository contains a contents file providing:
 
 
 
-## Schedule
+## Schedule and Assessment
 
-The course is designed to be taught over one 14-week term, with two 2-hour sessions per week plus time off class for self-study and assessments. The computer is used pervasively throughout the course for both theory contents and labs. 
+The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week plus time off class for self-study and work on assignments.
 
-| *Session* | *Module*          | *Contents* |
-| --------: | ----------------- | ---------- | 
-| 1         | Introduction      | Cybersecurity. CIA. Vulnerabilities, threats, risks, controls. Adversaries. Principles |
-| 2         | Introduction      | Threat modeling |
-| 3         | Authentication    | User authentication. Factors. Passwords |
-| 4         | Authentication    | Passwords in Linux. Breaking passwords |
-| 5         | Authentication    | Password managers |
-| 6         | Authentication    | Federated identity |
-| 7         | Access Control    | Protection. Access control models |
-| 8         | Access Control    | Linux credentials and the permission system |
-| 9         | Access Control    | POSIX ACLs. Capabilities |
-| 10        | Access Control    | Permission and ACL labs |
-| 11        | Network Security  | Comms security. TCP/IP security |
-| 12        | Network Security  | Analyzing traffic traces with wireshark |
-| 13        | Network Security  | More TCP/IP security issues |
-| 14        | Network Security  | Network discovery and port scanning |
-| 15        | Network Security  | Web security|
-| 16        | Network Security  | Basic web attacks. Authentication. XSS. Injection |
-| 17        | TLS               | TLS goals. Design. Cryptographic background |
-| 18        | TLS               | Certificates and certification authorities |
-| 19        | TLS               | Handshake and record protocols |
-| 20        | TLS               | Interception. Certificate pinning. Labs |
-| 21        | Vulnerabilities   | Vulnerability types. Lifecycle. Numbering (CVE, CPE, CWE) |
-| 22        | Vulnerabilities   | Scoring (CVSS). Labs |
-| 23        | Malware           | Malicious code. Types |
-| 24        | Malware           | Binary analysis tools. Reversing binaries |
-| 25        | Malware           | Malware analysis |
-| 26        | Malware           | Case studies and labs |
-| 27        | Regulation        | Computer Crime. Cyberscurity Act. NIS 2 Directive |
-| 28        | Regulation        | GDPR |
+The assessment activitites include
+* Three quizzes spaced throughout the term (weeks 2, 4, and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
+* A workbook handed in the last day with solutions to 4 activities chosen from those available across all modules. _Grading: 40%_
 
-
-
-## Labs
-
-The labs are small practical projects meant to help students gain skills in a topic and reinforce knowledge discussed in class. Each lab consists of a practical task that require some independent study and experimentation with one or a few tools. They are used as part of the course assessment.
-
-| *Lab*                       | *Points* | *Available* | *Deadline* |
-| --------------------------- | -------: | ----------- | ---------- |
-| Threat modeling exercise    | 1        | Session 2   | 1 week     |
-| Breaking passwords          | 1        | Session 4   | 2 weeks    |
-| User permissions            | 1        | Session 8   | 2 weeks    |
-| Analysis of pcap            | 0.5      | Session 12  | 1 week     |
-| Network scanning            | 0.5      | Session 14  | 1 week     |
-| Vulnerable web app          | 1        | Session 16  | 2 weeks    |
-| CVE/CVSS lab                | 1        | Session 21  | 1 week     |
-| Binary reversing (optional) | 1        | Session 24  | 1 week     |
-
+| Week | Module                                      | Assessment activitities                  |
+| ---- | ------------------------------------------- | ---------------------------------------- | 
+| 1    | Hostilities in Cyberspace                   |                                          |
+| 2    | Cybercrime and its Underground Economy      | Quizz 1 (Module 1)                       |
+| 3    | Vulnerabilities, Exploits, and their Market |                                          |
+| 4    | Privacy and Surveillance                    | Quizz 2 (Modules 2 and 3)                |
+| 5    | Cyberoperations                             |                                          |
+| 6    | Cyberwarfare                                | Quizz 3 (Modules 4 and 5) <br/> Workbook |
 
 
 ## License
