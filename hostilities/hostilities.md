@@ -31,9 +31,14 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
     * No mandatory reading
 
 
+## Slides
+
+The slides used in class for this module are available [here](https://tbd).
+
+
 ## Activities
 
-### Classifying security incidents
+### A1. Classifying security incidents
 
 Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values:
 
@@ -44,6 +49,19 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 >Linking this to the Unified Kill Chain the primary classification is in fact the action on objectives. The secondary classifications are then those actions taken to get the initial foothold or to do network propagation.
 >
 >Note that in some cases it's worth splitting an incident into different sub-incidents, where each incident covers one of the different steps.
+
+**\[TBD\]** List of security incidents. Give links for some of them and provide simple descr for others. Classify them and dicuss why.
+
+
+## Questions
+
+**\[TBD\]** 10-15 short questions
+
+
+
+## Further Reading
+
+**\[TBD\]** My blogpost of the underground hacking culture
 
 
 
