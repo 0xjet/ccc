@@ -13,12 +13,16 @@ The course provides a gentle, not very technical introduction to various current
 
 The main goal of the course is to provide students who approach cybersecurity with little-to-none previous backgound with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences and a few key topics are certainly missing, but this is a short (6 weeks) course and there is no room for more. The material can be extended with some extra effort to make up for these limitations.
 
-For each topic, this repository contains a contents file providing:
+
+## Contents of this Repository
+
+For each topic (see [syllabus](https://github.com/0xjet/ccc#syllabus) below), this repository contains a contents file providing:
 * a description of the contents covered in the topic,
-* a set of slides used in class during the lectures,
 * a list of core readings,
 * a list of questions, problems, and learning activities, and
 * a list of supplementary readings for those who want to go a bit deeper into the subject.
+
+There is also a set of slides used in class during the lectures. Class recordings are not available yet.
 
 
 ## Syllabus
