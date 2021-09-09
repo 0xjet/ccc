@@ -62,9 +62,9 @@ There is also a set of slides used in class during the lectures. Class recording
 
 ## Schedule and Assessment
 
-The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week plus time off class for self-study and work on assignments.
+The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week. Each module is covered in one week, plus time off class for self-study and work on assignments.
 
-The assessment activitites include
+The assessment activitites include:
 * Three quizzes spaced throughout the term (weeks 2, 4, and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
 * A workbook handed in the last day with solutions to 4 activities chosen from those available across all modules. _Grading: 40%_
 
