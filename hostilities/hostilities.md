@@ -55,7 +55,7 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 
 ## Questions
 
-**\[TBD\]** 10-15 short questions
+**\[TBD\]** 10-15 short questions with def of capabilities and intent of oppo, threat categories, etc.
 
 
 
