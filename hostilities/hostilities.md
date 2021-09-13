@@ -52,6 +52,23 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 
 **\[TBD\]** List of security incidents. Give links for some of them and provide simple descr for others. Classify them and dicuss why.
 
+Assign classification label(s) to the following incidents:
+
+1. A security administrator discovers port scanning traces in a network log.
+2. Some employees receive an email with a malicious Microsoft Word document attached. The emails are personalized, i.e., they address the employees by their name and contain other pesonal details.
+3. A social network user posts links to websites devoted to cruelty towards animals.
+4. The phone of a 15 years old kid is running a parental control app that allows parents to monitor Internet usage and read all conversations in messaging apps.
+5. A network intrusion detection system stops an attempt to exploit a known vulnerability against a web server.
+6. A web application firewall (WAF) detects a SQL injection attack.
+7. After a successful intrusion into a server, an attacker exploits a vulnerability to elevate privileges and compromises the administrator (root) account.
+8. An attacker exploits a known security vulnerability in an unpatched web server and then uses it to distribute copyright-protected ebooks.
+9. A router contains is found to contain a hardcoded password for a privileged account.
+10. As part of a ransomware campaign, attackers exfiltrate confidential company data to their servers and then encrypt all company systems, rendering them unusable. They demand a ransom and threaten to publish the data for free if they do not receive payment in a few days.
+11. A security administrator discovers that some computers in the network are running a bot that is used to launch DDoS attacks.
+12. Someone has installed a rogue access point and is sharing the corporate network through it.
+13. A sophisticated attacker with access to a privileged account installs a TLS certificate in
+
+
 
 ## Questions
 
