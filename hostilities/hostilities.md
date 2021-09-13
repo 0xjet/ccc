@@ -77,7 +77,4 @@ Assign classification label(s) to the following incidents using both the ENISA a
 
 ## Further Reading
 
-**\[TBD\]** My blogpost of the underground hacking culture
-
-
-
+* Juan Tapiador. [A book list on the computer underground culture](https://0xjet.github.io/3OHA/20210324/20210324_books_computer_underground_culture.html)
