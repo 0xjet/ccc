@@ -77,7 +77,7 @@ Consider the case of a social network or a video platform that is forced to mode
 Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
 
 **5.**
-Describe at least 4 factors that affect the impact (criticality) level of a security incident. Provdie a short rationale of your answer for each factor.
+Describe at least 4 factors that affect the impact (criticality) level of a security incident. Provide a short rationale of your answer for each factor.
 
 **6.**
 Do a comparative analysis a major ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
