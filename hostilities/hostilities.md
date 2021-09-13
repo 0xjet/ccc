@@ -50,8 +50,6 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 >
 >Note that in some cases it's worth splitting an incident into different sub-incidents, where each incident covers one of the different steps.
 
-**\[TBD\]** List of security incidents. Give links for some of them and provide simple descr for others. Classify them and dicuss why.
-
 Assign classification label(s) to the following incidents:
 
 1. A security administrator discovers port scanning traces in a network log.
