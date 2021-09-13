@@ -38,7 +38,7 @@ The slides used in class for this module are available [here](https://tbd).
 
 ## Activities
 
-### A1. Classifying security incidents
+### 1. Classifying security incidents
 
 Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values:
 
@@ -68,14 +68,25 @@ Assign classification label(s) to the following incidents using both the ENISA a
 14. A user receives an email pretending to come from a bank. The email states that a money transfer has been ordered and asks the user to click on a link to complete or cancel the process. The link points to a site aimed at stealing user credentials.
 15. A user receives a text message (SMS), presumably from a courier, about a parcel that is about to be delivered. The message contains a shortened URL that points to an Android app that is downloaded and installed (with user consent). The app is a banking trojan.
 
+### 2. Security and usability
 
-## Questions
+Give an example of a usability failure that is at the root of a security incident. Discuss the trade-offs (if any) made by the designers when considering usability vs. security.
 
-1. Give an example of a usability failure that is at the root of a security incident.
-2. Consider the case of a social network or a video platform that is forced to moderate user submissions to reduce the spread of disinformation and potentially harmful content. Discuss the incentives that the platform has (not) to do it and enumerate some of the technical complications to do this at scale.
-3. Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
-4. Describe 4 factors that affect the impact (criticality) level of a security incident.
-5. Do a comparative analysis a major ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
+### 3. Content moderation
+
+Consider the case of a social network or a video platform that is forced to moderate user submissions to reduce the spread of disinformation and potentially harmful content. Discuss the incentives that the platform has (not) to do it and enumerate some of the technical complications to do this at scale.
+
+### 4. Security incentives
+
+Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
+
+### 5. What makes a security incident critical?
+
+Describe at least 4 factors that affect the impact (criticality) level of a security incident. Provdie a short rationale of your answer for each factor.
+
+### 6. Threat structure
+
+Do a comparative analysis a major ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
 
 
 ## Further Reading
