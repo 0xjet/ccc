@@ -66,8 +66,9 @@ Assign classification label(s) to the following incidents:
 10. As part of a ransomware campaign, attackers exfiltrate confidential company data to their servers and then encrypt all company systems, rendering them unusable. They demand a ransom and threaten to publish the data for free if they do not receive payment in a few days.
 11. A security administrator discovers that some computers in the network are running a bot that is used to launch DDoS attacks.
 12. Someone has installed a rogue access point and is sharing the corporate network through it.
-13. A sophisticated attacker with access to a privileged account installs a TLS certificate in
-
+13. An attacker with access to a privileged account installs in some compromised machines a TLS certificate that facilitates traffic interception by deploying a transparent proxy.
+14. A user receives an email pretending to come from a bank. The email states that a money transfer has been ordered and asks the user to click on a link to complete or cancel the process. The link points to a site aimed at stealing user credentials.
+15. A user receives a text message (SMS), presumably from a courier, about a parcel that is about to be delivered. The message contains a shortened URL that points to an Android app that is downloaded and installed (with user consent). The app is a banking trojan.
 
 
 ## Questions
