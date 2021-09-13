@@ -28,5 +28,9 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((ht
     * The rest of the chapter is optional, but encouraged.
 
 
+## Questions
+
+**1.**
+Explore topic X using the [search engine](https://search.edwardsnowden.com) for the collection of Snowden docs.
 
 
