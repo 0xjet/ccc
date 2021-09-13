@@ -36,7 +36,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 The slides used in class for this module are available [here](https://tbd).
 
 
-## Activities
+## Questions
 
 ### 1. Classifying security incidents
 
@@ -80,7 +80,7 @@ Consider the case of a social network or a video platform that is forced to mode
 
 Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
 
-### 5. What makes a security incident critical?
+### 5. Incident criticality
 
 Describe at least 4 factors that affect the impact (criticality) level of a security incident. Provdie a short rationale of your answer for each factor.
 
