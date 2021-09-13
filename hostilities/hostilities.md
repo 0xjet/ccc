@@ -50,7 +50,7 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 >
 >Note that in some cases it's worth splitting an incident into different sub-incidents, where each incident covers one of the different steps.
 
-Assign classification label(s) to the following incidents:
+Assign classification label(s) to the following incidents using both the ENISA and Europol taxonomies.
 
 1. A security administrator discovers port scanning traces in a network log.
 2. Some employees receive an email with a malicious Microsoft Word document attached. The emails are personalized, i.e., they address the employees by their name and contain other pesonal details.
