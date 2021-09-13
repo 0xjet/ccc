@@ -71,8 +71,6 @@ Assign classification label(s) to the following incidents using both the ENISA a
 
 ## Questions
 
-**\[TBD\]** 10-15 short questions with def of capabilities and intent of oppo, threat categories, etc.
-
 1. Give an example of a usability failure that is at the root of a security incident.
 2. Consider the case of a social network or a video platform that is forced to moderate user submissions to reduce the spread of disinformation and potentially harmful content. Discuss the incentives that the platform has (not) to do it and enumerate some of the technical complications to do this at scale.
 3. Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
