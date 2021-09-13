@@ -76,6 +76,8 @@ Assign classification label(s) to the following incidents using both the ENISA a
 1. Give an example of a usability failure that is at the root of a security incident.
 2. Consider the case of a social network or a video platform that is forced to moderate user submissions to reduce the spread of disinformation and potentially harmful content. Discuss the incentives that the platform has (not) to do it and enumerate some of the technical complications to do this at scale.
 3. Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
+4. Describe 4 factors that affect the impact (criticality) level of a security incident.
+5. Do a comparative analysis a major ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
 
 
 ## Further Reading
