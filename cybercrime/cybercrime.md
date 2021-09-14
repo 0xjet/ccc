@@ -40,3 +40,9 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 Explore topic X using the [search engine](https://search.edwardsnowden.com) for the collection of Snowden docs.
 
 
+
+## Further Reading
+
+- The Grugq. [CrimeOps: The Operational Art of Cyber Crime](https://sec.okta.com/articles/2020/08/crimeops-operational-art-cyber-crime). August 4, 2020
+
+
