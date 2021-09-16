@@ -39,6 +39,8 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 **1.**
 Explore topic X using the [search engine](https://search.edwardsnowden.com) for the collection of Snowden docs.
 
+**2.**
+Analyze the evolution of prices for a subset of representative products available in the cybercrime underground. Look for recent reports (e.g., Privacy Affairs Dark Web Price Index [2020](https://www.privacyaffairs.com/dark-web-price-index-2020/) and [2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)) and discuss changes.
 
 
 ## Further Reading
