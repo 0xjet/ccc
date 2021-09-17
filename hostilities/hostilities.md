@@ -80,7 +80,7 @@ Discuss the incentives that a software manufacturer has to care about the securi
 Describe at least 4 factors that affect the impact (criticality) level of a security incident. Provide a short rationale of your answer for each factor.
 
 **6.**
-Do a comparative analysis a major ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
+Do a comparative analysis of a global ransomware campaign vs. a cyberespionage campaign backed by a foreign government against a national aerospace industry. Discuss similarities and differences of the threat structure across the following dimensions: typical group size and organization, funding amount and sources, available intelligence sources, TTPs, target(s), and motivation.
 
 
 ## Further Reading
