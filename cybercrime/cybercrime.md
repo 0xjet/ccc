@@ -47,5 +47,6 @@ Analyze the evolution of prices for a subset of representative products availabl
 - Krebs on Security. [How Much Is Your Identity Worth?](https://krebsonsecurity.com/2011/11/how-much-is-your-identity-worth/), November 8, 2011
 - Krebs on Security. [Confessions of an ID Theft Kingpin, Part I](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/). August 26, 2020.
 - Krebs on Security. [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/). August 27, 2020.
+- Mark Bowden. [The Worm That Nearly Ate the Internet](https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html). New York Times. June 29, 2019.
 
 
