@@ -85,5 +85,5 @@ Do a comparative analysis of a global ransomware campaign vs. a cyberespionage c
 
 ## Further Reading
 
-* Juan Tapiador. [A book list on the computer underground culture](https://0xjet.github.io/3OHA/20210324/20210324_books_computer_underground_culture.html). 24 March 2021.
+* Juan Tapiador. [A book list on the computer underground culture](https://0xjet.github.io/3OHA/2021/03/24/post.html). 24 March 2021.
 
