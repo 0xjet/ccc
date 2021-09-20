@@ -49,5 +49,5 @@ Analyze the evolution of prices for a subset of representative products availabl
 - Krebs on Security. [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/). August 27, 2020.
 - Mark Bowden. [The Worm That Nearly Ate the Internet](https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html). New York Times. June 29, 2019.
 - [Operation Tovar](https://en.wikipedia.org/wiki/Operation_Tovar). Wikipedia.
-- 
+- [Cyber Banking Fraud: Global Partnerships Lead to Major Arrests](https://archives.fbi.gov/archives/news/stories/2010/october/cyber-banking-fraud). FBI. October 10, 2010.
 
