@@ -29,9 +29,8 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Readings
 
-* Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
-    * Sections 26.1, 26.2 and 26.6 are mandatory.
-    * The rest of the chapter is optional, but encouraged.
+* K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
+* 
 
 
 ## Questions
