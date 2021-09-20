@@ -50,4 +50,6 @@ Analyze the evolution of prices for a subset of representative products availabl
 - Mark Bowden. [The Worm That Nearly Ate the Internet](https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html). New York Times. June 29, 2019.
 - [Operation Tovar](https://en.wikipedia.org/wiki/Operation_Tovar). Wikipedia.
 - [Cyber Banking Fraud: Global Partnerships Lead to Major Arrests](https://archives.fbi.gov/archives/news/stories/2010/october/cyber-banking-fraud). FBI. October 10, 2010.
+- Magno Logan, Erika Mendoza, Ryan Maglaque, and Nikko Tamaña. [The State of Ransomware: 2020's Catch-22](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-state-of-ransomware-2020-s-catch-22). Trend Micro. February 03, 2021.
+- Vladimir Kropotov, Robert McArdle, and Fyodor Yarochkin. [The Hacker Infrastructure and Underground Hosting: Services Used by Criminals](https://documents.trendmicro.com/assets/white_papers/wp-the-hacker-infrastructure-and-underground-hosting-services-used-by-criminals.pdf). Trend Micro. September 01, 2020.
 
