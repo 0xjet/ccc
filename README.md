@@ -34,7 +34,12 @@ There is also a set of slides used in class during the lectures. Class recording
     * Why Security is Hard
 
 * Module 2. Cybercrime and its Underground Economy
-    * TBD
+    * What is Cybercrime
+    * The Underground Economy of Cybercrime
+    * Marketplaces
+    * Intervention
+
+* TBD
     * TBD
     * TBD
 
