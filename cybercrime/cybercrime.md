@@ -1,4 +1,4 @@
-# Cybercrime and its Underground Economy
+# Module 2. Cybercrime and its Underground Economy
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
@@ -6,20 +6,12 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime. It first provides an overview of the abuse ecosystem focusing on the main cybercrime activities (spamvertised products, ransomware, identity theft, carding and banking fraud). It then explores the supply chains that facilitate cybercrime and the commoditization of the key products (accounts, hosting, distribution, traffic, botnets, coding, crypters, etc.). The module concludes with some walkthroughs on representative marketplaces and forums.
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime. It first provides an overview of the abuse ecosystem focusing on the main cybercrime activities (spamvertised products, ransomware, identity theft, carding and banking fraud). It then explores the supply chains that facilitate cybercrime and the commoditization of the key products (accounts, hosting, distribution, traffic, botnets, coding and crypters, etc.). The module concludes with some walkthroughs on representative marketplaces and forums.
 
 **Learning Outcomes**
+* Know the different types of cybercrime activities.
 * Understand the commoditization of capabilities and services tailored to the cybercrime ecosystem.
-* Know the different types of services available in the cybercriminal undergound.
-* 
-* 
-
-Understand the history and development of the Internet and its security and privacy problems.
-Recognize different types of security incidents as classified by taxonomies used by CSIRTs.
-Know the different types of opponents and their intent, motivations, and means.
-Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace.
-
-
+* Know the different types of services available in the cybercriminal undergound, the role they play in the supply chain and their prices/pricing models.
 
 ## Contents and Readings
 
@@ -29,6 +21,7 @@ Discuss and analyze the technical, legal, and ethical challenges relating to sec
     * K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
     * K. Huang, M. Siegel, and S. Madnick. [Systematically Understanding the Cyber Attack Business: A Survey](https://dl.acm.org/doi/10.1145/3199674). ACM Computing Surveys, Vol. 51, Issue 4 September 2018, pp. 1–36.
 * Marketplaces
+    * No mandatory reading
 * Intervention
     * Larry G. Wlosinski. [Cybersecurity Takedowns](https://www.isaca.org/resources/isaca-journal/issues/2019/volume-6/cybersecurity-takedowns). 15 November 2019.
 
@@ -41,10 +34,12 @@ The slides used in class for this module are available here.
 ## Questions
 
 **1.**
+Analyze the evolution of prices for a subset of representative products available in the cybercrime underground. Look for recent reports (e.g., Privacy Affairs Dark Web Price Index [2020](https://www.privacyaffairs.com/dark-web-price-index-2020/) and [2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)) and discuss changes.
+
+**1.**
 Explore topic X using the [search engine](https://search.edwardsnowden.com) for the collection of Snowden docs.
 
-**2.**
-Analyze the evolution of prices for a subset of representative products available in the cybercrime underground. Look for recent reports (e.g., Privacy Affairs Dark Web Price Index [2020](https://www.privacyaffairs.com/dark-web-price-index-2020/) and [2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)) and discuss changes.
+
 
 
 ## Further Reading
