@@ -6,7 +6,7 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime. It first provides an overview of the abuse ecosystem focusing on the main cybercrime activities (spamvertised products, ransomware, identity theft, carding and banking fraud). It then explores the supply chains that facilitate cybercrime and the commoditization of the key products (accounts, hosting, distribution, traffic, botnets, coding, crypters, etc.). The module concludes with some walkthroughs on representative marketplaces and forums.
 
 
 **Learning Outcomes**
@@ -27,8 +27,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 ## Readings
 
 * K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
-* 
-
+* R. Bhalerao, M. Aliapoulios, I. Shumailov, S. Afroz, D. McCoy. [Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](https://damonmccoy.com/papers/ecrime2019.pdf), eCrime 2019.
 
 ## Questions
 
