@@ -9,7 +9,7 @@ The course provides a gentle, not very technical introduction to various current
 * the underground economy of cybercrime,
 * vulnerabilities, exploits and their markets,
 * privacy and surveillance --including commercial surveillance--, and
-* cyberwarfare.
+* state-sponsored cyberoperations.
 
 The main goal of the course is to provide students who approach cybersecurity with little-to-none previous backgound with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences and a few key topics are certainly missing, but this is a short (6 weeks) course and there is no room for more. The material can be extended with some extra effort to make up for these limitations.
 
@@ -52,12 +52,12 @@ There is also a set of slides used in class during the lectures. Class recording
 * Module 5. Cyberoperations
     * Operations in Cyberspace
     * The ATT&CK Framework
-    * APTs
+    * APTs and State-sponsored Operations
 
 
 ## Schedule and Assessment
 
-The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week. Each module is covered in one week, plus time off class for self-study and work on assignments.
+The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week. Each module is covered in one week, plus time off class for self-study and work on assignments. The last week is used to review contents and explore other topics and directions from here.
 
 The assessment activitites include:
 * Three quizzes spaced throughout the term (weeks 2, 4, and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
@@ -70,7 +70,7 @@ The assessment activitites include:
 | 3    | Vulnerabilities, Exploits, and their Market |                                          |
 | 4    | Privacy and Surveillance                    | Quizz 2 (Modules 2 and 3)                |
 | 5    | Cyberoperations                             |                                          |
-| 6    | Cyberwarfare                                | Quizz 3 (Modules 4 and 5) <br/> Workbook |
+| 6    | Course Wrap Up                              | Quizz 3 (Modules 4 and 5) <br/> Workbook |
 
 
 ## License
