@@ -8,26 +8,33 @@
 
 This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime. It first provides an overview of the abuse ecosystem focusing on the main cybercrime activities (spamvertised products, ransomware, identity theft, carding and banking fraud). It then explores the supply chains that facilitate cybercrime and the commoditization of the key products (accounts, hosting, distribution, traffic, botnets, coding, crypters, etc.). The module concludes with some walkthroughs on representative marketplaces and forums.
 
-
 **Learning Outcomes**
+* Understand the commoditization of capabilities and services tailored to the cybercrime ecosystem.
+* Know the different types of services available in the cybercriminal undergound.
 * 
-* Identify and analyze the technical, legal, and ethical challenges relating to surveillance in cyberspace
-* Discuss and analyze surveillance trends **TBD**
+* 
+
+Understand the history and development of the Internet and its security and privacy problems.
+Recognize different types of security incidents as classified by taxonomies used by CSIRTs.
+Know the different types of opponents and their intent, motivations, and means.
+Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace.
 
 
-[//]: # (jet - verbs: {define, examine, identify, analyze, discuss, assess, propose})
 
+## Contents and Readings
 
-## Topics / draft of contents
-
-* History of government surveillance
-* Privacy regulation
-
-
-## Readings
+* Cybercrime
+    * [Cybercrime - prosecution guidance](https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance)
 
 * K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
-* R. Bhalerao, M. Aliapoulios, I. Shumailov, S. Afroz, D. McCoy. [Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](https://damonmccoy.com/papers/ecrime2019.pdf), eCrime 2019.
+* K. Huang, M. Siegel, and S. Madnick. [Systematically Understanding the Cyber Attack Business: A Survey](https://dl.acm.org/doi/10.1145/3199674). ACM Computing Surveys, Vol. 51, Issue 4 September 2018, pp. 1–36.
+
+
+## Slides
+
+The slides used in class for this module are available here.
+
+
 
 ## Questions
 
@@ -39,6 +46,9 @@ Analyze the evolution of prices for a subset of representative products availabl
 
 
 ## Further Reading
+
+Threat landscape:
+- ENISA. [Threat Landscape](https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends).
 
 Identity theft:
 - Krebs on Security. [How Much Is Your Identity Worth?](https://krebsonsecurity.com/2011/11/how-much-is-your-identity-worth/), November 8, 2011
@@ -59,3 +69,8 @@ Hosting infrastructure:
 
 Scams:
 - Jim Browning. [Spying on the Scammers [Parts 1-4]](https://www.youtube.com/watch?v=le71yVPh4uk&list=PLBNmQJqxpaMaxqghShRiOnHUjO00ZCsor). Mar 2, 2020.
+
+Cybercrime supply chains:
+- R. Bhalerao, M. Aliapoulios, I. Shumailov, S. Afroz, D. McCoy. [Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](https://damonmccoy.com/papers/ecrime2019.pdf), eCrime 2019.
+
+
