@@ -51,21 +51,21 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 
 Assign classification label(s) to the following incidents using both the ENISA and Europol taxonomies.
 
-    * A security administrator discovers port scanning traces in a network log.
-    * Some employees receive an email with a malicious Microsoft Word document attached. The emails are personalized, i.e., they address the employees by their name and contain other pesonal details.
-    * A social network user posts links to websites devoted to cruelty towards animals.
-    * The phone of a 15 years old kid is running a parental control app that allows parents to monitor Internet usage and read all conversations in messaging apps.
-    * A network intrusion detection system stops an attempt to exploit a known vulnerability against a web server.
-    * A web application firewall (WAF) detects a SQL injection attack.
-    * After a successful intrusion into a server, an attacker exploits a vulnerability to elevate privileges and compromises the administrator (root) account.
-    * An attacker exploits a known security vulnerability in an unpatched web server and then uses it to distribute copyright-protected ebooks.
-    * A router contains is found to contain a hardcoded password for a privileged account.
-    * As part of a ransomware campaign, attackers exfiltrate confidential company data to their servers and then encrypt all company systems, rendering them unusable. They demand a ransom and threaten to publish the data for free if they do not receive payment in a few days.
-    * A security administrator discovers that some computers in the network are running a bot that is used to launch DDoS attacks.
-    * Someone has installed a rogue access point and is sharing the corporate network through it.
-    * An attacker with access to a privileged account installs in some compromised machines a TLS certificate that facilitates traffic interception by deploying a transparent proxy.
-    * A user receives an email pretending to come from a bank. The email states that a money transfer has been ordered and asks the user to click on a link to complete or cancel the process. The link points to a site aimed at stealing user credentials.
-    * A user receives a text message (SMS), presumably from a courier, about a parcel that is about to be delivered. The message contains a shortened URL that points to an Android app that is downloaded and installed (with user consent). The app is a banking trojan.
+* A security administrator discovers port scanning traces in a network log.
+* Some employees receive an email with a malicious Microsoft Word document attached. The emails are personalized, i.e., they address the employees by their name and contain other pesonal details.
+* A social network user posts links to websites devoted to cruelty towards animals.
+* The phone of a 15 years old kid is running a parental control app that allows parents to monitor Internet usage and read all conversations in messaging apps.
+* A network intrusion detection system stops an attempt to exploit a known vulnerability against a web server.
+* A web application firewall (WAF) detects a SQL injection attack.
+* After a successful intrusion into a server, an attacker exploits a vulnerability to elevate privileges and compromises the administrator (root) account.
+* An attacker exploits a known security vulnerability in an unpatched web server and then uses it to distribute copyright-protected ebooks.
+* A router contains is found to contain a hardcoded password for a privileged account.
+* As part of a ransomware campaign, attackers exfiltrate confidential company data to their servers and then encrypt all company systems, rendering them unusable. They demand a ransom and threaten to publish the data for free if they do not receive payment in a few days.
+* A security administrator discovers that some computers in the network are running a bot that is used to launch DDoS attacks.
+* Someone has installed a rogue access point and is sharing the corporate network through it.
+* An attacker with access to a privileged account installs in some compromised machines a TLS certificate that facilitates traffic interception by deploying a transparent proxy.
+* A user receives an email pretending to come from a bank. The email states that a money transfer has been ordered and asks the user to click on a link to complete or cancel the process. The link points to a site aimed at stealing user credentials.
+* A user receives a text message (SMS), presumably from a courier, about a parcel that is about to be delivered. The message contains a shortened URL that points to an Android app that is downloaded and installed (with user consent). The app is a banking trojan.
 
 **2.**
 Give an example of a usability failure that is at the root of a security incident. Discuss the trade-offs (if any) made by the designers when considering usability vs. security.
