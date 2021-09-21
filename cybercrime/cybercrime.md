@@ -23,17 +23,19 @@ Discuss and analyze the technical, legal, and ethical challenges relating to sec
 
 ## Contents and Readings
 
-* Cybercrime
+* What is Cybercrime
     * [Cybercrime - prosecution guidance](https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance)
-
-* K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
-* K. Huang, M. Siegel, and S. Madnick. [Systematically Understanding the Cyber Attack Business: A Survey](https://dl.acm.org/doi/10.1145/3199674). ACM Computing Surveys, Vol. 51, Issue 4 September 2018, pp. 1–36.
+* The Underground Economy of Cybercrime
+    * K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
+    * K. Huang, M. Siegel, and S. Madnick. [Systematically Understanding the Cyber Attack Business: A Survey](https://dl.acm.org/doi/10.1145/3199674). ACM Computing Surveys, Vol. 51, Issue 4 September 2018, pp. 1–36.
+* Marketplaces
+* Intervention
+    * Larry G. Wlosinski. [Cybersecurity Takedowns](https://www.isaca.org/resources/isaca-journal/issues/2019/volume-6/cybersecurity-takedowns). 15 November 2019.
 
 
 ## Slides
 
 The slides used in class for this module are available here.
-
 
 
 ## Questions
