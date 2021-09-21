@@ -39,10 +39,6 @@ There is also a set of slides used in class during the lectures. Class recording
     * Marketplaces
     * Intervention
 
-* TBD
-    * TBD
-    * TBD
-
 * Module 3. Vulnerabilities, Exploits, and their Market
     * TBD
     * TBD
@@ -57,12 +53,6 @@ There is also a set of slides used in class during the lectures. Class recording
     * Operations in Cyberspace
     * The ATT&CK Framework
     * APTs
-
-* Module 6. Cyberwarfare
-    * TBD
-    * TBD
-    * TBD
-
 
 
 ## Schedule and Assessment
