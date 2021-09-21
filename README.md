@@ -16,7 +16,7 @@ The main goal of the course is to provide students who approach cybersecurity wi
 
 ## Contents of this Repository
 
-For each topic (see [syllabus](https://github.com/0xjet/ccc#syllabus) below), this repository contains a contents file providing:
+For each topic (see the [syllabus](https://github.com/0xjet/ccc#syllabus) below), this repository contains a contents file providing:
 * a description of the contents covered in the topic,
 * a list of core readings,
 * a list of questions, problems, and learning activities, and
