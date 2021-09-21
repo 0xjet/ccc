@@ -11,7 +11,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 **Learning Outcomes**
 * Know the different types of cybercrime activities.
 * Understand the commoditization of capabilities and services tailored to the cybercrime ecosystem.
-* Know the different types of services available in the cybercriminal undergound, the role they play in the supply chain and their prices/pricing models.
+* Know the different types of services available in the cybercriminal undergound, the role they play in the supply chain, and their prices/pricing models.
 
 ## Contents and Readings
 
