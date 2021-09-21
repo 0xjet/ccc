@@ -86,4 +86,6 @@ Do a comparative analysis of a global ransomware campaign vs. a cyberespionage c
 ## Further Reading
 
 * Juan Tapiador. [A book list on the computer underground culture](https://0xjet.github.io/3OHA/2021/03/24/post.html). 24 March 2021.
+* K. Thomas, et al. [SoK: Hate, Harassment, and the Changing Landscape of Online Abuse](https://www.computer.org/csdl/proceedings-article/sp/2021/893400a473/1oak94nz0AM). 2021 IEEE Symposium on Security and Privacy (SP), pp. 247-267.
+
 
