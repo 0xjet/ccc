@@ -6,11 +6,11 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of why cyberspace is such a hostile environment. It provides a short introduction to the history of the Internet and its major themes. It then discusses types of threats and abuse (the _what_), opponents (the _who_) and their intent (the _why_). The module concludes with a debate on how we got here and why security is hard.
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) introduces the topic of cybercrime
 
 
 **Learning Outcomes**
-* Critically examine **TBD**
+* 
 * Identify and analyze the technical, legal, and ethical challenges relating to surveillance in cyberspace
 * Discuss and analyze surveillance trends **TBD**
 
@@ -23,9 +23,6 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 * History of government surveillance
 * Privacy regulation
 
-**Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
-
-**Note**: See links in TODO files!
 
 ## Readings
 
