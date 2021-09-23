@@ -61,7 +61,7 @@ Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Ta
 Give an example of a usability failure that is at the root of a security incident. Discuss the trade-offs (if any) made by the designers when considering usability vs. security.
 
 ### Q3. Content moderation
-Consider the case of a social network or a video platform that is forced to moderate user submissions to reduce the spread of disinformation and potentially harmful content. Discuss the incentives that the platform has (not) to do it and enumerate some of the technical complications to do this at scale.
+Consider the case of a social network or a video streaming platform that is forced to moderate user submissions to reduce the spread of disinformation campaigns and potentially harmful content. Discuss the incentives that the platform has (not) to do it. Enumerate some of the technical complications that involve doing this at scale.
 
 ### Q4. Incentives to develop and maintain secure products
 Discuss the incentives that a software manufacturer has to care about the security of its products, i.e., to consider security aspects during the development lifecycle, to do security audits on the code, to keep an eye on vulnerabilites of components your products depend on, and to maintain fluid communication channels with security researchers that report vulnerabilities).
