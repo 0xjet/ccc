@@ -87,4 +87,4 @@ This work is licensed under a
 
 ## Contact
 
-Feedback is welcome. [Contact me](https://0xjet.github.io/) for any comments, questions or suggestions on this material.
+Feedback is welcome. Please [contact me](https://0xjet.github.io/) for any comments, questions or suggestions on this material.
