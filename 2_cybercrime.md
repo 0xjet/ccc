@@ -33,22 +33,22 @@ The slides used in class for this module are available here.
 
 ## Questions
 
-**1.**
+### 1. Underground cybercrime prices
 Analyze the evolution of prices for a subset of representative products available in the cybercrime underground. Look for recent reports (e.g., Privacy Affairs Dark Web Price Index [2020](https://www.privacyaffairs.com/dark-web-price-index-2020/) and [2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)) and discuss price changes and potential reasons for observed variations.
 
-**2.**
+### 2. Click fraud
 Do some research about the key metrics used by the online advertising industry, such as Pay-Per-Click (PPC), Cost-Per-Impresion (CPI, or CPM for 1,000 impresions), and Click-Through-Rate (CTR). Read this [brief introduction to the click fraud phenomenon](https://faculty.ist.psu.edu/jjansen/academic/jansen_click_fraud.pdf) by Bernard Jansen (Computer, July 2007). Complement the previous reading with other documents on the same topic. Write up a brief description of technical means used to conduct click fraud at scale.
 
-**3.**
+### 3. SMS as 2FA
 Discuss reasons why using SMS to deliver codes for two-factor authentication (2FA) is a bad design choice.
 
-**4.**
+### 4. SIM swapping
 SIM swapping has become a popular type of account takeover scam. Do some research of how it works and discuss the root causes behind its success. List a few popular cases of account takeovers that leveraged SIM swapping.
 
-**5.**
+### 5. Residential proxies
 Do some research about the services advertised as "residential proxies." Find out how they work, particularly how the company acquires the pool of residential IP addresses. Describe a few uses cases and what advantages they hold over traditional proxies based on data centers. Can you identify any risks for the users who willingly participate in the program?
 
-**6.**
+### 6. Emotet
 Emotet was a very prevalent threat prior to its takedown in January 2021. Its operation has been widely documented. Research about its origins, structure and purpose, focusing on how it evolved to serve loaders to victims that could then download second-stage payloads for different customers. At some point their operators used parked domains to distribute payloads. Find out why this is an interesting strategy.
 
 
