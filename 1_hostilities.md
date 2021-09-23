@@ -1,4 +1,4 @@
-# Module 1. Hostilities
+# Module 1. Hostilities in Cyberspace
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
