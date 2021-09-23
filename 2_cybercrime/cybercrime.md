@@ -47,10 +47,13 @@ Complement the previous reading with other documents on the same topic. Write up
 Discuss reasons why using SMS to deliver codes for two-factor authentication (2FA) is a bad design choice.
 
 **4.**
-SIM swapping has become a popule type of account takeover scam. Do some research of how it works and discuss the root causes behind its success. List a few popular cases of account takeovers that leveraged SIM swapping.
+SIM swapping has become a popular type of account takeover scam. Do some research of how it works and discuss the root causes behind its success. List a few popular cases of account takeovers that leveraged SIM swapping.
 
 **5.**
+Do some research about the services advertised as "residential proxies." Find out how they work, particularly how the company acquires the pool of residential IP addresses. Describe a few uses cases and what advantages they hold over traditional proxies based on data centers. Can you identify any risks for the users who willingly participate in the program?
 
+**6.**
+Emotet was a very prevalent threat prior to its takedown in January 2021. Its operation has been widely documented. Research about its origins, structure and purpose, focusing on how it evolved to serve loaders to infected systems that could then download second-stage payloads for different customers. At some point their operators used parked domains to distribute payloads. Find out why this is an interesting strategy.
 
 
 ## Further Reading
