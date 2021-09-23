@@ -39,17 +39,7 @@ The slides used in class for this module are available [here](https://tbd).
 ## Questions
 
 **1.**
-Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values:
-
->Security incidents often don't fall into one single classification. For example an incident can involve an attacker conducting multiple login attempts (Intrusion Attempts / Login attempts) with the purpose of gaining -unauthorized- access to information (Information Content Security / Unauthorised access to information). Another example is where an infected system (Malicious Code / Infected System) communicates with an external server to receive commands (Malicious Code / C2 Server).
->
->When multiple values apply, the primary classification of an incident is the intent of the attacker, whereas the secondary classification can then be the means, or the transport mechanism, used to conduct the attack. For the above example, the infected system is the primary classification, where the C2 Server would be the secondary classification.
->
->Linking this to the Unified Kill Chain the primary classification is in fact the action on objectives. The secondary classifications are then those actions taken to get the initial foothold or to do network propagation.
->
->Note that in some cases it's worth splitting an incident into different sub-incidents, where each incident covers one of the different steps.
-
-Assign classification label(s) to the following incidents using both the ENISA and Europol taxonomies.
+Read this [ENISA note](https://github.com/enisaeu/Reference-Security-Incident-Taxonomy-Task-Force/blob/master/Documentation/howtogetstarted.md#multiple-values) on classifying incidents with multiple values. Assign classification label(s) to the following incidents using both the ENISA and Europol taxonomies.
 
 * A security administrator discovers port scanning traces in a network log.
 * Some employees receive an email with a malicious Microsoft Word document attached. The emails are personalized, i.e., they address the employees by their name and contain other pesonal details.
