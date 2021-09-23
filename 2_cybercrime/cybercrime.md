@@ -37,11 +37,7 @@ The slides used in class for this module are available here.
 Analyze the evolution of prices for a subset of representative products available in the cybercrime underground. Look for recent reports (e.g., Privacy Affairs Dark Web Price Index [2020](https://www.privacyaffairs.com/dark-web-price-index-2020/) and [2021](https://www.privacyaffairs.com/dark-web-price-index-2021/)) and discuss price changes and potential reasons for observed variations.
 
 **2.**
-Do some research about the key metrics used by the online advertising industry, such as Pay-Per-Click (PPC), Cost-Per-Impresion (CPI, or CPM for 1,000 impresions), and Click-Through-Rate (CTR). Read this brief introduction to the click fraud phenomenon:
-
-- Bernard J. Jansen. [Click Fraud](https://faculty.ist.psu.edu/jjansen/academic/jansen_click_fraud.pdf). Computer, July 2007.
-
-Complement the previous reading with other documents on the same topic. Write up a brief description of technical means used to conduct click fraud at scale.
+Do some research about the key metrics used by the online advertising industry, such as Pay-Per-Click (PPC), Cost-Per-Impresion (CPI, or CPM for 1,000 impresions), and Click-Through-Rate (CTR). Read this [brief introduction to the click fraud phenomenon](https://faculty.ist.psu.edu/jjansen/academic/jansen_click_fraud.pdf) by Bernard Jansen (Computer, July 2007). Complement the previous reading with other documents on the same topic. Write up a brief description of technical means used to conduct click fraud at scale.
 
 **3.**
 Discuss reasons why using SMS to deliver codes for two-factor authentication (2FA) is a bad design choice.
