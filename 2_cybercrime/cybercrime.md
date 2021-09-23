@@ -49,7 +49,7 @@ SIM swapping has become a popular type of account takeover scam. Do some researc
 Do some research about the services advertised as "residential proxies." Find out how they work, particularly how the company acquires the pool of residential IP addresses. Describe a few uses cases and what advantages they hold over traditional proxies based on data centers. Can you identify any risks for the users who willingly participate in the program?
 
 **6.**
-Emotet was a very prevalent threat prior to its takedown in January 2021. Its operation has been widely documented. Research about its origins, structure and purpose, focusing on how it evolved to serve loaders to infected systems that could then download second-stage payloads for different customers. At some point their operators used parked domains to distribute payloads. Find out why this is an interesting strategy.
+Emotet was a very prevalent threat prior to its takedown in January 2021. Its operation has been widely documented. Research about its origins, structure and purpose, focusing on how it evolved to serve loaders to victims that could then download second-stage payloads for different customers. At some point their operators used parked domains to distribute payloads. Find out why this is an interesting strategy.
 
 
 ## Further Reading
