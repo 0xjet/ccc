@@ -27,19 +27,19 @@ There is also a set of slides used in class during the lectures. Class recording
 
 ## Syllabus
 
-* Module 1. Hostilities in Cyberspace
+* [Module 1. Hostilities in Cyberspace](https://github.com/0xjet/ccc/blob/main/1_hostilities.md)
     * A Brief History of the Internet
     * Threats
     * Opponents
     * Why Security is Hard
 
-* Module 2. Cybercrime and its Underground Economy
+* [Module 2. Cybercrime and its Underground Economy](https://github.com/0xjet/ccc/blob/main/2_cybercrime.md)
     * What is Cybercrime
     * The Underground Economy of Cybercrime
     * Marketplaces
     * Intervention
 
-* Module 3. Vulnerabilities, Exploits, and their Market
+* [Module 3. Vulnerabilities, Exploits, and their Market](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities.md)
     * TBD
     * TBD
     * TBD
