@@ -15,14 +15,14 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Contents and Readings
 
-* What is Cybercrime
+1. What is Cybercrime
     * [Cybercrime - prosecution guidance](https://www.cps.gov.uk/legal-guidance/cybercrime-prosecution-guidance)
-* The Underground Economy of Cybercrime
+2. The Underground Economy of Cybercrime
     * K. Thomas, D. Yuxing Huang, D. Y. Wang, E. Bursztein, C. Grier, T. Holt, C. Kruegel, D. McCoy, S. Savage, G. Vigna. [Framing Dependencies Introduced by Underground Commoditization](https://research.google/pubs/pub43798/). WEIS 2015.
     * K. Huang, M. Siegel, and S. Madnick. [Systematically Understanding the Cyber Attack Business: A Survey](https://dl.acm.org/doi/10.1145/3199674). ACM Computing Surveys, Vol. 51, Issue 4 September 2018, pp. 1–36.
-* Marketplaces
+3. Marketplaces
     * No mandatory reading
-* Intervention
+4. Intervention
     * Larry G. Wlosinski. [Cybersecurity Takedowns](https://www.isaca.org/resources/isaca-journal/issues/2019/volume-6/cybersecurity-takedowns). 15 November 2019.
 
 
