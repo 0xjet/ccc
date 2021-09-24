@@ -68,6 +68,8 @@ Emotet was a very prevalent threat prior to its takedown in January 2021. Its op
     * M. Antonakakis et al. [Understanding the Mirai Botnet](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis). USENIX Security 2017.
 * Hosting infrastructure:
     * Vladimir Kropotov, Robert McArdle, and Fyodor Yarochkin. [The Hacker Infrastructure and Underground Hosting: Services Used by Criminals](https://documents.trendmicro.com/assets/white_papers/wp-the-hacker-infrastructure-and-underground-hosting-services-used-by-criminals.pdf). Trend Micro. September 01, 2020.
+* Click fraud:
+     * Martin Laine. [How a Russian Mobile App Developer Recruited Phones into a Secret Ad-Watching Robot Army](https://www.occrp.org/en/investigations/how-a-russian-mobile-app-developer-recruited-phones-into-a-secret-ad-watching-robot-army). OCCRP, 9 September 2021.
 * Phone scams:
     * Jim Browning. [Spying on the Scammers [Parts 1-4]](https://www.youtube.com/watch?v=le71yVPh4uk&list=PLBNmQJqxpaMaxqghShRiOnHUjO00ZCsor). Mar 2, 2020.
 * Cybercrime supply chains:
