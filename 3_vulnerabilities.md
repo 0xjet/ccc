@@ -33,7 +33,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Slides
 
-The slides used in class for this module are available [here](https://tbd).
+The slides used in class for this module are available [here](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg/edit?usp=sharing).
 
 
 ## Questions
