@@ -39,8 +39,7 @@ The slides used in class for this module are available [here](https://docs.googl
 ## Questions
 
 **1.**
-[TBD] Explore [CVE Details](https://www.cvedetails.com/) and identify top vendors, top products, historial trends, etc.
-
+Explore the data feeds available at [CVE Details](https://www.cvedetails.com/) and identify top vendors and products affected by known vulnerabilities. Look at the historical series and try to identify any noticeable patterns.
 
 
 ## Further Reading
