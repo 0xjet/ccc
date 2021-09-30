@@ -48,5 +48,6 @@ Note: As in the case of other security topics, this area is rapidly changing. Lo
 
 * Andy Greenberg. [Shopping For Zero-Days: A Price List For Hackers' Secret Software Exploits](https://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/?sh=5b8d12522660). Forbes, 23 March 2012.
 * Sebastian Anthohy. [The first rule of zero-days is no one talks about zero-days (so we’ll explain)](https://arstechnica.com/information-technology/2015/10/the-rise-of-the-zero-day-market/). Ars Technica, 20 October 2015.
+* Andy Greenberg. [The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days](https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/). 17 August 2016.
 * The security.txt standard. TBC
 
