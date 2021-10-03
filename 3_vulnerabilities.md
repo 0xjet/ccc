@@ -52,6 +52,7 @@ Note: As in the case of other security topics, this area is rapidly changing. Lo
     * Sebastian Anthohy. [The first rule of zero-days is no one talks about zero-days (so we’ll explain)](https://arstechnica.com/information-technology/2015/10/the-rise-of-the-zero-day-market/). Ars Technica, 20 October 2015.
     * Andy Greenberg. [The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days](https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/). 17 August 2016.
 * Ethics
+    * Michael Daniel. [Heartbleed: Understanding When We Disclose Cyber Vulnerabilities](https://obamawhitehouse.archives.gov/blog/2014/04/28/heartbleed-understanding-when-we-disclose-cyber-vulnerabilities). The White House, 28 April 2014.
     * Alex Hoffman. [Moral Hazards in Cyber Vulnerability Markets](https://ieeexplore.ieee.org/document/8909925). Computer, December 2019.
     * 
 
