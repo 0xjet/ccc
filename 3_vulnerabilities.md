@@ -45,8 +45,8 @@ Note: As in the case of other security topics, this area is rapidly changing. Lo
 * The security.txt standard. TBC
 
 * Zero-days
-    * D. Danchev. [Black market for zero day vulnerabilities still thriving](https://www.zdnet.com/article/black-market-for-zero-day-vulnerabilities-still-thriving/). ZDNet, November 2, 2008.
-    * Andy Greenberg. [Meet the hackers who sell spies the tools to crack your PC (and get paid six-figure fees)](https://www.forbes.com/sites/andygreenberg/2012/03/21/meet-the-hackers-who-sell-spies-the-tools-to-crack-your-pc-and-get-paid-six-figure-fees/?sh=3a8348aa1f74). Forbes, Mar 21, 2012.
+    * D. Danchev. [Black market for zero day vulnerabilities still thriving](https://www.zdnet.com/article/black-market-for-zero-day-vulnerabilities-still-thriving/). ZDNet, 2 November 2008.
+    * Andy Greenberg. [Meet the hackers who sell spies the tools to crack your PC (and get paid six-figure fees)](https://www.forbes.com/sites/andygreenberg/2012/03/21/meet-the-hackers-who-sell-spies-the-tools-to-crack-your-pc-and-get-paid-six-figure-fees/?sh=3a8348aa1f74). Forbes, 21 March 2012.
     * Andy Greenberg. [The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days](https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/). 17 August 2016.
     * Sebastian Anthohy. [The first rule of zero-days is no one talks about zero-days (so we’ll explain)](https://arstechnica.com/information-technology/2015/10/the-rise-of-the-zero-day-market/). Ars Technica, 20 October 2015.
     * Andy Greenberg. [Shopping For Zero-Days: A Price List For Hackers' Secret Software Exploits](https://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/?sh=5b8d12522660). Forbes, 23 March 2012.
