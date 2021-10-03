@@ -57,6 +57,7 @@ Note: As in the case of other security topics, this area is rapidly changing. Lo
     * Bruce Schneier. [Should U.S. Hackers Fix Cybersecurity Holes or Exploit Them?](https://www.theatlantic.com/technology/archive/2014/05/should-hackers-fix-cybersecurity-holes-or-exploit-them/371197/). The Atlantic, 19 May 2014.
     * Bruce Schneier. [Who Are the Shadow Brokers?](https://www.theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/). The Atlantic, 23 May 2017.
     * Alex Hoffman. [Moral Hazards in Cyber Vulnerability Markets](https://ieeexplore.ieee.org/document/8909925). Computer, December 2019.
+    * Halvar Flake. [Rashomon of disclosure](http://addxorrol.blogspot.com/2019/08/rashomon-of-disclosure.html). August 17, 2019.
     * Ivan Kwiatkowski. [We need to talk - opening a discussion about ethics in infosec](https://www.virusbulletin.com/conference/vb2019/abstracts/we-need-talk-opening-discussion-about-ethics-infosec/). Virus Bulletion 2019.
 * Legal issues
     * EFF. [Coders’ Rights Project Vulnerability Reporting FAQ](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
