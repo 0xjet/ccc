@@ -35,13 +35,21 @@ The slides used in class for this module are available [here](https://docs.googl
 
 ## Questions
 
-**1.**
+### Q1. CVE evolution 
 Explore the data feeds available at [CVE Details](https://www.cvedetails.com/) and identify top vendors and products affected by known vulnerabilities. Look at the historical series and try to identify any noticeable patterns.
+
+### Q2. Ethical dilemmas
+Discuss ethical positions for the following scenarios. Provide arguments in favor or against each position depending on your views. If the argument invoves an "it depends," elaborate on what circumstances make your position go one side or the other. These questions are complex and often there is no single right answer, but try to be as concise and clear in your answers as possible.
+
+* __Ransomware__. Should victims pay or not to pay the ransom?
+* __Legal malware__. You work for an AV / cyberthreat intelligence company and you come across an operation run by a law enforcement agency of your government that is affecting the society at large. Should you expose it or whitelist it?
+* __Privacy disclosure__. You discover that a company implements an abusive data collection and dissemination policy. Should you: (i) conctact the vendor to express your concerns; (ii) disclose it publicly for everybody to know; or (iii) report it to your data protection agency?
+
 
 
 ## Further Reading
 
-* 
+* Vulnerability disclosure
     * [security.txt - A File Format to Aid in Security Vulnerability Disclosure](https://securitytxt.org/).
 * Zero-days
     * D. Danchev. [Black market for zero day vulnerabilities still thriving](https://www.zdnet.com/article/black-market-for-zero-day-vulnerabilities-still-thriving/). ZDNet, 2 November 2008.
