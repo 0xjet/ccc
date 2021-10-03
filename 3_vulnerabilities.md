@@ -19,14 +19,15 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 ## Contents and Readings
 
 * Vulnerabilities
-    *
+    * FIRST. [Mastering CVSS v3.1](https://learning.first.org/courses/course-v1:FIRST+CVSSv3.1+2020/about).
 * Zero-day Vulnerabilities
+    * No mandatory reading
 * The Rise of an Industry
     * No mandatory reading
 * Analysis: The life of Zero-days and Their Exploits
     * L. Ablon and A. Bogart. [Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits](https://www.rand.org/pubs/research_reports/RR1751.html). RAND Corporation, 9 March 2017.
 * The Ethics of Vulnerability Research
-    * 
+    * No mandatory reading
 
 ## Slides
 
@@ -41,10 +42,8 @@ Explore the data feeds available at [CVE Details](https://www.cvedetails.com/) a
 
 ## Further Reading
 
-Note: As in the case of other security topics, this area is rapidly changing. Look at the date of each piece for context. Things might have changed since then.
-
-* The security.txt standard. TBC
-
+* 
+    * [security.txt - A File Format to Aid in Security Vulnerability Disclosure](https://securitytxt.org/).
 * Zero-days
     * D. Danchev. [Black market for zero day vulnerabilities still thriving](https://www.zdnet.com/article/black-market-for-zero-day-vulnerabilities-still-thriving/). ZDNet, 2 November 2008.
     * Andy Greenberg. [Meet the hackers who sell spies the tools to crack your PC (and get paid six-figure fees)](https://www.forbes.com/sites/andygreenberg/2012/03/21/meet-the-hackers-who-sell-spies-the-tools-to-crack-your-pc-and-get-paid-six-figure-fees/?sh=3a8348aa1f74). Forbes, 21 March 2012.
