@@ -21,6 +21,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 * Vulnerabilities
     *
 * Zero-day Vulnerabilities
+    * by L. Ablon and A. Bogart. [Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits](https://www.rand.org/pubs/research_reports/RR1751.html). RAND Corporation, 9 March 2017.
 * The Rise of an Industry
     * No mandatory reading
 * Analysis: The life of Zero-days and Their Exploits
