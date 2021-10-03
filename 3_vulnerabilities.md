@@ -9,10 +9,10 @@
 This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of software vulnerabilites, their associated exploits, and the role they play in the cyberarms industry. The module first provides some foundational definitions on how vulnerabilities are numbered (CVE) and scored (CVSS). It then discusses the notion of zero-day vulnerability and the white/gray/black industries that emerged around them -- notably vulnerability reward ("bug bounty") programs and clandestine markets. Some key ideas about the dynamics of zero-day vulnerabilities are discussed using a 2017 RAND report that analyzes the life statuses, longevity, collision rate, and costs of a dataset of 200 0-day exploits spanning 14 years. The module concludes with an overview of the ethical conundrums of vulnerability -- and computer security -- research.
 
 **Learning Outcomes**
-* Understand the history and development of the Internet and its security and privacy problems.
-* Recognize different types of security incidents as classified by taxonomies used by CSIRTs.
-* Know the different types of opponents and their intent, motivations, and means.
-* Discuss and analyze the technical, legal, and ethical challenges relating to security and privacy in cyberspace.
+* Understand the information available in a CVE entry.
+* Know the CVSS scoring rubrics and how to use them.
+* Know the lifecycle and markets for zero-day vulnerabilities and associated exploits.
+* Recognize and discuss the ethical challenges related to vulnerabilities and exploits due to their potential for harm.
 
 
 ## Contents and Readings
@@ -36,7 +36,7 @@ The slides used in class for this module are available [here](https://docs.googl
 ## Questions
 
 ### Q1. CVE evolution 
-Explore the data feeds available at [CVE Details](https://www.cvedetails.com/) and identify top vendors and products affected by known vulnerabilities. Look at the historical series and try to identify any noticeable patterns.
+The data feeds available at [CVE Details](https://www.cvedetails.com/) provide you with historical data and visualizations about CVEs. Youu can browse vulnerabilities by type, year, vendor, product/version, and CVSS score. Provide a longitudinal analysis of the evolution of the number and type of vulnerabilities over time. Discuss trends and identify how dif- ferent types of vulnerabilities have evolved, providing likely explanations for the observed figures.
 
 ### Q2. Ethical dilemmas
 Discuss ethical positions for the following scenarios. Provide arguments in favor or against each position depending on your views. If the argument invoves an "it depends," elaborate on what circumstances make your position go one side or the other. These questions are complex and often there is no single right answer, but try to be as concise and clear in your answers as possible.
@@ -44,7 +44,6 @@ Discuss ethical positions for the following scenarios. Provide arguments in favo
 * __Ransomware__. Should victims pay or not to pay the ransom?
 * __Legal malware__. You work for an AV / cyberthreat intelligence company and you come across an operation run by a law enforcement agency of your government that is affecting the society at large. Should you expose it or whitelist it?
 * __Privacy disclosure__. You discover that a company implements an abusive data collection and dissemination policy. Should you: (i) conctact the vendor to express your concerns; (ii) disclose it publicly for everybody to know; or (iii) report it to your data protection agency?
-
 
 
 ## Further Reading
