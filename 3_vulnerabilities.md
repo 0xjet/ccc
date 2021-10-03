@@ -6,8 +6,7 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of why cyberspace is such a hostile environment. It provides a short introduction to the history of the Internet and its major themes. It then discusses types of threats and abuse (the _what_), opponents (the _who_) and their intent (the _why_). The module concludes with a debate on how we got here and why security is hard.
-
+This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of software vulnerabilites, their associated exploits, and the role they play in the cyberarms industry. The module first provides some foundational definitions on how vulnerabilities are numbered (CVE) and scored (CVSS). It then discusses the notion of zero-day vulnerability and the white/gray/black industries that emerged around them -- notably vulnerability reward ("bug bounty") programs and clandestine markets. Some key ideas about the dynamics of zero-day vulnerabilities are discussed using a 2017 RAND report that analyzes the life statuses, longevity, collision rate, and costs of a dataset of 200 0-day exploits spanning 14 years. The module concludes with an overview of the ethical conundrums of vulnerability -- and computer security -- research.
 
 **Learning Outcomes**
 * Understand the history and development of the Internet and its security and privacy problems.
@@ -31,7 +30,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Slides
 
-The slides used in class for this module are available [here](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg/edit?usp=sharing).
+The slides used in class for this module are available [here](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg).
 
 
 ## Questions
