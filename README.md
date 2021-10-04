@@ -46,9 +46,10 @@ There is also a set of slides used in class during the lectures. Class recording
     * The Ethics of Vulnerability Research
 
 * Module 4. Privacy and Surveillance
-    * TBD
-    * TBD
-    * TBD
+    * Privacy
+    * The Crypto Wars
+    * Mass Surveillance
+    * Commercial Surveillance
 
 * Module 5. Cyberoperations
     * Operations in Cyberspace
