@@ -22,7 +22,14 @@ For each topic (see the [syllabus](https://github.com/0xjet/ccc#syllabus) below)
 * a list of questions, problems, and learning activities, and
 * a list of supplementary readings for those who want to go a bit deeper into the subject.
 
-There is also a set of slides used in class during the lectures. Class recordings are not available yet.
+There is also a set of slides used in class during the lectures:
+* [Module 1. Hostilities in Cyberspace]()
+* [Module 2. Cybercrime and its Underground Economy]()
+* [Module 3. Vulnerabilities, Exploits, and their Market](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg)
+* [Module 4. Privacy and Surveillance]()
+* [Moduel 5. Cyberoperations]()
+
+Class recordings are not available yet.
 
 
 ## Syllabus
