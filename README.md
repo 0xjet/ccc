@@ -27,7 +27,7 @@ There is also a set of slides used in class during the lectures:
 * [Module 2. Cybercrime and its Underground Economy]()
 * [Module 3. Vulnerabilities, Exploits, and their Market](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg)
 * [Module 4. Privacy and Surveillance]()
-* [Moduel 5. Cyberoperations]()
+* [Module 5. Cyberoperations]()
 
 Class recordings are not available yet.
 
