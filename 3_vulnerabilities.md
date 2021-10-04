@@ -26,7 +26,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 * Analysis: The life of Zero-days and Their Exploits
     * L. Ablon and A. Bogart. [Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits](https://www.rand.org/pubs/research_reports/RR1751.html). RAND Corporation, 9 March 2017.
 * The Ethics of Vulnerability Research
-    * No mandatory reading
+    * [Computer and Information Ethics](https://plato.stanford.edu/archives/spr2011/entries/ethics-computer/). Stanford Encyclopedia of Philosophy.
 
 ## Slides
 
