@@ -40,9 +40,10 @@ There is also a set of slides used in class during the lectures. Class recording
     * Intervention
 
 * [Module 3. Vulnerabilities, Exploits, and their Market](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities.md)
-    * TBD
-    * TBD
-    * TBD
+    * Vulnerabilities
+    * Zero-day Vulnerabilities
+    * The Rise of an Industry
+    * The Ethics of Vulnerability Research
 
 * Module 4. Privacy and Surveillance
     * TBD
