@@ -57,7 +57,7 @@ Discuss ethical positions for the following scenarios. Provide arguments in favo
     * Sebastian Anthohy. [The first rule of zero-days is no one talks about zero-days (so we’ll explain)](https://arstechnica.com/information-technology/2015/10/the-rise-of-the-zero-day-market/). Ars Technica, 20 October 2015.
     * Andy Greenberg. [The Shadow Brokers Mess Is What Happens When the NSA Hoards Zero-Days](https://www.wired.com/2016/08/shadow-brokers-mess-happens-nsa-hoards-zero-days/). 17 August 2016.
     * Project Zero. [A very deep dive into iOS Exploit chains found in the wild ](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html). Agusut 29, 2019.
-* Ethics
+* Ethics and disclosure
     * Michael Daniel. [Heartbleed: Understanding When We Disclose Cyber Vulnerabilities](https://obamawhitehouse.archives.gov/blog/2014/04/28/heartbleed-understanding-when-we-disclose-cyber-vulnerabilities). The White House, 28 April 2014.
     * Bruce Schneier. [Should U.S. Hackers Fix Cybersecurity Holes or Exploit Them?](https://www.theatlantic.com/technology/archive/2014/05/should-hackers-fix-cybersecurity-holes-or-exploit-them/371197/). The Atlantic, 19 May 2014.
     * Bruce Schneier. [Who Are the Shadow Brokers?](https://www.theatlantic.com/technology/archive/2017/05/shadow-brokers/527778/). The Atlantic, 23 May 2017.
