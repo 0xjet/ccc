@@ -9,29 +9,28 @@
 
 This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((https://github.com/0xjet/ccc) examines the topics of privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
-**Learning Outcomes**
-* Dicuss the positions 
+**Learning Outcomes** 
 * Understand how user tracking works
+* Know the main stakeholders in the commercial surveillance ecosystem
+* Know the initiatives to backdoor cryptographic algorithms and systems, and discuss their pitfalls
 * Identify and analyze the technical, legal, and ethical challenges relating to surveillance in cyberspace
 * Discuss and analyze surveillance trends
 
 
 ## Contents and Readings
 
-* Vulnerabilities
-    * 
-* Zero-day Vulnerabilities
+* Privacy
+    * xxx
+* The Crypto Wars
     * No mandatory reading
-* The Rise of an Industry
-    * No mandatory reading
-* Analysis: The life of Zero-days and Their Exploits
+* Mass Surveillance
     * 
-* The Ethics of Vulnerability Research
-    * 
+* Commercial Surveillance
+    * xxx
 
 ## Slides
 
-The slides used in class for this module are available [here](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg).
+The slides used in class for this module are available [here](https://tbd).
 
 
 ## Questions
