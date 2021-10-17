@@ -13,15 +13,15 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((ht
 ## Contents and Readings
 
 * Vulnerabilities
-    * FIRST. [Mastering CVSS v3.1](https://learning.first.org/courses/course-v1:FIRST+CVSSv3.1+2020/about).
+    * 
 * Zero-day Vulnerabilities
     * No mandatory reading
 * The Rise of an Industry
     * No mandatory reading
 * Analysis: The life of Zero-days and Their Exploits
-    * L. Ablon and A. Bogart. [Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits](https://www.rand.org/pubs/research_reports/RR1751.html). RAND Corporation, 9 March 2017.
+    * 
 * The Ethics of Vulnerability Research
-    * Bynum, Terrell, [Computer and Information Ethics](https://plato.stanford.edu/archives/sum2018/entries/ethics-computer/), The Stanford Encyclopedia of Philosophy (Summer 2018 Edition), Edward N. Zalta (ed.).
+    * 
 
 ## Slides
 
@@ -42,4 +42,24 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
     * Sections 26.1, 26.2 and 26.6 are mandatory.
     * The rest of the chapter is optional, but encouraged.
+
+Wolfie Christl and Sarah Spiekermann. Networks of Control.
+Wolfie Christl. Corporate Surveillance in Everyday Life.
+
+https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what
+
+(see contents on 'spooks' in Anderson's opponents chapter)
+
++ Global surveillance
+https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
+
++ The Guardian's "The NSA Files"
+
++ EFF stuff
+https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks
+- https://ssd.eff.org/
+
++ Backdooring
+- https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/?utm_source=EURACTIV&utm_campaign=41308d10fa-digital_brief_COPY_01&utm_medium=email&utm_term=0_c59e2fd7a9-41308d10fa-116236495
+- 
 
