@@ -52,7 +52,7 @@ Class recordings are not available yet.
     * The Rise of an Industry
     * The Ethics of Vulnerability Research
 
-* Module 4. Privacy and Surveillance
+* [Module 4. Privacy and Surveillance](https://github.com/0xjet/ccc/blob/main/4_surveillance.md)
     * Privacy
     * The Crypto Wars
     * Mass Surveillance
