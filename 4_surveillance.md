@@ -10,7 +10,7 @@
 This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((https://github.com/0xjet/ccc) examines the topics of privacy and surveillance as practiced by governments and commercial firms. This is a huge area that connects with many other cyber and non-cyber issues. The purpose of this module is to provide a rather superficial historical overview of these topics and identify current debates and conflicting views.
 
 **Learning Outcomes** 
-* Understand how user tracking works
+* Understand how user tracking works in the web
 * Know the main stakeholders in the commercial surveillance ecosystem
 * Know the initiatives to backdoor cryptographic algorithms and systems, and discuss their pitfalls
 * Identify and analyze the technical, legal, and ethical challenges relating to surveillance in cyberspace
@@ -35,11 +35,14 @@ The slides used in class for this module are available [here](https://tbd).
 ## Questions
 
 ### Q1. The Snowden documents 
-This [search engine](https://search.edwardsnowden.com) provides a useful categorization for the collection of Snowden docs. Explore topic X using 
+This [search engine](https://search.edwardsnowden.com) provides a useful categorization for the collection of Snowden docs. Explore a topic (e.g., Computer Network Operations, Internet content) or a codeword (e.g., XKEYSCORE) and write up a summary of the key findings along with a discussion on its implications.
 
+### Q2. Surveillance and 
 
 **Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
 
+### Q3. Apple Tracking Transparency
+With the release of iOS 14.5 in late April 2021, Apple introduced its App Tracking Transparency feature. It requires app developers to request explicit permission from users before sharing any user data collected for targetting an advertising purposed. Read about this feature and discuss its implications. Find out how users have reacted to it.
 
 ## Further Reading
 
@@ -65,4 +68,3 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
 * Backdooring
     * Euractiv. [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). October 12, 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
-
