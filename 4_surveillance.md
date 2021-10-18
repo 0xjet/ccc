@@ -20,13 +20,12 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts]((ht
 ## Contents and Readings
 
 * Privacy
-    * xxx
 * The Crypto Wars
-    * No mandatory reading
 * Mass Surveillance
-    * 
+    * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
+    * Sections 26.1, 26.2 and 26.6 are mandatory. The rest of the chapter is optional, but encouraged.
 * Commercial Surveillance
-    * xxx
+    * Wolfie Christl. [Corporate Surveillance in Everyday Life](https://crackedlabs.org/en/corporate-surveillance). Cracked Labs, June 2017.
 
 ## Slides
 
@@ -42,14 +41,9 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 **Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
 
 
-## Readings
-
-* Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
-    * Sections 26.1, 26.2 and 26.6 are mandatory.
-    * The rest of the chapter is optional, but encouraged.
+## Further Reading
 
 Wolfie Christl and Sarah Spiekermann. Networks of Control.
-Wolfie Christl. Corporate Surveillance in Everyday Life.
 
 https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what
 
