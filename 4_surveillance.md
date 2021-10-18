@@ -44,21 +44,21 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 ## Further Reading
 
 
-https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what
 
-(see contents on 'spooks' in Anderson's opponents chapter)
 
 + Global surveillance
 https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
-
-+ The Guardian's "The NSA Files"
 
 + EFF stuff
 https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks
 - https://ssd.eff.org/
 
+* Mass Surveillance
+    * The Guardian. [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files).
 * Commercial Surveillance
     * Wolfie Christl and Sarah Spiekermann. [Networks of Control: A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](https://crackedlabs.org/en/networksofcontrol), 2016.
+    * Aaron Sankin. [I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What?](https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what). The Markup. September 22, 2020.
+    * Aaron Sankin and Surya Mattu. [I Scanned My Favorite Social Media Site on Blacklight and It Came Up Pretty Clean. What’s Going On?](https://themarkup.org/ask-the-markup/2020/10/01/i-scanned-my-favorite-social-media-site-on-blacklight-and-it-came-up-pretty-clean-whats-going-on). The Markup. October 1, 2020.
 * Backdooring
     * [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). Euractiv, 12 Oct 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
