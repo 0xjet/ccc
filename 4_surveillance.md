@@ -43,7 +43,6 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 
 ## Further Reading
 
-Wolfie Christl and Sarah Spiekermann. Networks of Control.
 
 https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what
 
@@ -58,6 +57,8 @@ https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93pres
 https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks
 - https://ssd.eff.org/
 
+* Commercial Surveillance
+    * Wolfie Christl and Sarah Spiekermann. [Networks of Control: A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](https://crackedlabs.org/en/networksofcontrol), 2016.
 * Backdooring
     * [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). Euractiv, 12 Oct 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
