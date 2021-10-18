@@ -54,6 +54,10 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in 45 Countries](https://tspace.library.utoronto.ca/bitstream/1807/95391/1/Report%23113--hide%20and%20seek.pdf). Citizen Lab Research Report No. 113, University of Toronto, September 2018.
     * Forbidden Stories. [The Pegasus Project](https://forbiddenstories.org/case/the-pegasus-project/). 2021.
     * Amnesty International. [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/). July 18, 2021.
+* The Greek Wiretapping Case
+    * Vassilis Prevelakis and Diomidis Spinellis. [The Athens Affair](https://spectrum.ieee.org/the-athens-affair). IEEE Spectrum. 29 June 2007.
+    * Malcolm Brabant. [Greek scandal sees Vodafone fined](http://news.bbc.co.uk/2/hi/business/6182647.stm). BBC Nwws. 15 December 2006.
+    * James Bamford. [A Death in Athens](https://theintercept.com/2015/09/28/death-athens-rogue-nsa-operation/). The Intercept. September 29, 2015.
 * Commercial Surveillance
     * Wolfie Christl and Sarah Spiekermann. [Networks of Control: A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](https://crackedlabs.org/en/networksofcontrol), 2016.
     * Aaron Sankin. [I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What?](https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what). The Markup. September 22, 2020.
