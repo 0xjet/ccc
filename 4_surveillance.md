@@ -35,7 +35,7 @@ The slides used in class for this module are available [here](https://tbd).
 ## Questions
 
 ### Q1. The Snowden documents 
-Explore topic X using the [search engine](https://search.edwardsnowden.com) for the collection of Snowden docs.
+This [search engine](https://search.edwardsnowden.com) provides a useful categorization for the collection of Snowden docs. Explore topic X using 
 
 
 **Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
