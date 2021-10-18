@@ -60,5 +60,6 @@ https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploi
 
 + Backdooring
 - https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/?utm_source=EURACTIV&utm_campaign=41308d10fa-digital_brief_COPY_01&utm_medium=email&utm_term=0_c59e2fd7a9-41308d10fa-116236495
-- 
+
+* Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning]. October 15, 2021.
 
