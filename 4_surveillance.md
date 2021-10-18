@@ -43,20 +43,17 @@ Explore topic X using the [search engine](https://search.edwardsnowden.com) for 
 
 ## Further Reading
 
-
-
-
-+ Global surveillance
-https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)
-
-+ EFF stuff
-https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks
-- https://ssd.eff.org/
-
 * Mass Surveillance
     * The Guardian. [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files).
     * Wikipedia. [Global surveillance disclosures (1970–2013)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(1970%E2%80%932013)).
     * Wikipedia. [Global surveillance disclosures (2013–present)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)).
+* Cellphone Spying
+    * Yomna N. [Gotta Catch 'Em All: Understanding How IMSI-Catchers Exploit Cell Networks](https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks). Electronic Frontier Foundation. June 28, 2019.
+    * Chris Paget. [Practical Cellphone Spying](https://www.youtube.com/watch?v=fQSu9cBaojc). DEFCON 18.
+    * Bill Marczak, John Scott-Railton, Sarah McKune, Bahr Abdul Razzak, and Ron
+Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in 45 Countries](https://tspace.library.utoronto.ca/bitstream/1807/95391/1/Report%23113--hide%20and%20seek.pdf). Citizen Lab Research Report No. 113, University of Toronto, September 2018.
+    * Forbidden Stories. [The Pegasus Project](https://forbiddenstories.org/case/the-pegasus-project/). 2021.
+    * Amnesty International. [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/). July 18, 2021.
 * Commercial Surveillance
     * Wolfie Christl and Sarah Spiekermann. [Networks of Control: A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](https://crackedlabs.org/en/networksofcontrol), 2016.
     * Aaron Sankin. [I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What?](https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what). The Markup. September 22, 2020.
