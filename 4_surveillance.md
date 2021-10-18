@@ -37,11 +37,10 @@ The slides used in class for this module are available [here](https://tbd).
 ### Q1. The Snowden documents 
 This [search engine](https://search.edwardsnowden.com) provides a useful categorization for the collection of Snowden docs. Explore a topic (e.g., Computer Network Operations, Internet content) or a codeword (e.g., XKEYSCORE) and write up a summary of the key findings along with a discussion on its implications.
 
-### Q2. Surveillance and 
+### Q2. Backdoored access
+Write up two lists with the main key points in favor and against the use of backdoors in security systems so that law enforcement can access otherwise protected data.
 
-**Note**: write about the relationship between surveillance and censorship in the context of some crimes (e.g., child abuse as in Apple CSAM) and hate speech (e.g., streaming services, forums). We don't cover those here.
-
-### Q3. Apple Tracking Transparency
+### Q3. Apple tracking transparency
 With the release of iOS 14.5 in late April 2021, Apple introduced its App Tracking Transparency feature. It requires app developers to request explicit permission from users before sharing any user data collected for targetting an advertising purposed. Read about this feature and discuss its implications. Find out how users have reacted to it.
 
 ## Further Reading
