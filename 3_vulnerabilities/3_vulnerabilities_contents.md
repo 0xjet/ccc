@@ -31,7 +31,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Slides
 
-The slides used in class for this module are available [here](https://docs.google.com/presentation/d/10g3HtQ1Si9Qb7orqk2mH0rxStX1GsAZCqyAfkqGEZXg).
+The slides used in class for this module are available [here](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities/3_vulnerabilities_slides.pdf).
 
 
 ## Further Reading
