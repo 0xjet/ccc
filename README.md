@@ -29,31 +29,31 @@ Class recordings are not available yet.
 
 ## Syllabus
 
-* [Module 1. Hostilities in Cyberspace](https://github.com/0xjet/ccc/blob/main/1_hostilities/1_hostilities.md)
+* [Module 1. Hostilities in Cyberspace](https://github.com/0xjet/ccc/blob/main/1_hostilities/1_hostilities_contents.md)
     * A Brief History of the Internet
     * Threats
     * Opponents
     * Why Security is Hard
 
-* [Module 2. Cybercrime and its Underground Economy](https://github.com/0xjet/ccc/blob/main/2_cybercrime/2_cybercrime.md)
+* [Module 2. Cybercrime and its Underground Economy](https://github.com/0xjet/ccc/blob/main/2_cybercrime/2_cybercrime_contents.md)
     * What is Cybercrime
     * The Underground Economy of Cybercrime
     * Marketplaces
     * Intervention
 
-* [Module 3. Vulnerabilities, Exploits, and their Market](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities/3_vulnerabilities.md)
+* [Module 3. Vulnerabilities, Exploits, and their Market](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities/3_vulnerabilities_contents.md)
     * Vulnerabilities
     * Zero-day Vulnerabilities
     * The Rise of an Industry
     * The Ethics of Vulnerability Research
 
-* [Module 4. Privacy and Surveillance](https://github.com/0xjet/ccc/blob/main/4_surveillance/4_surveillance.md)
+* [Module 4. Privacy and Surveillance](https://github.com/0xjet/ccc/blob/main/4_surveillance/4_surveillance_contents.md)
     * Privacy
     * The Crypto Wars
     * Mass Surveillance
     * Commercial Surveillance
 
-* [Module 5. Cyberoperations](https://github.com/0xjet/ccc/blob/main/5_operations/5_operations.md)
+* [Module 5. Cyberoperations](https://github.com/0xjet/ccc/blob/main/5_operations/5_operations_contents.md)
     * Operations in Cyberspace
     * The ATT&CK Framework
     * APTs and State-sponsored Operations
