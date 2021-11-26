@@ -22,7 +22,7 @@
     * Author. [Link](https://sites.cs.ucsb.edu/~almeroth/classes/F10.176A/papers/internet-history-09.pdf).
     * Robert H. Zakon. [Hobbes' Internet Timeline 25](https://www.zakon.org/robert/internet/timeline/).
     * Internet Society's [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/) series.
-* Attack Lifecycle Models
+* Adversary Behavior and Attack Lifecycle Models
     * ATT&CK
 * Case Studies
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html)
