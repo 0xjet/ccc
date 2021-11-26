@@ -6,7 +6,7 @@
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
-This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of why cyberspace is such a hostile environment. It provides a short introduction to the history of the Internet and its major themes. It then discusses types of threats and abuse (the _what_), opponents (the _who_) and their intent (the _why_). The module concludes with a debate on how we got here and why security is hard.
+[TBD] This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](https://github.com/0xjet/ccc) examines the topic of why cyberspace is such a hostile environment. It provides a short introduction to the history of the Internet and its major themes. It then discusses types of threats and abuse (the _what_), opponents (the _who_) and their intent (the _why_). The module concludes with a debate on how we got here and why security is hard.
 
 
 **Learning Outcomes**
@@ -18,16 +18,15 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 
 ## Contents and Readings
 
-* History of the Internet
-    * Barry M. Leiner, Vinton G. Cerf, David D. Clark, Robert E. Kahn, Leonard Kleinrock, Daniel C. Lynch, Jon Postel, Lawrence G. Roberts, Stephen Wolff. [A Brief History of the Internet](https://sites.cs.ucsb.edu/~almeroth/classes/F10.176A/papers/internet-history-09.pdf). ACM SIGCOMM Computer Communication Review, Volume 39, Number 5, October 2009.
+* Computer Network Operations
+    * Author. [Link](https://sites.cs.ucsb.edu/~almeroth/classes/F10.176A/papers/internet-history-09.pdf).
     * Robert H. Zakon. [Hobbes' Internet Timeline 25](https://www.zakon.org/robert/internet/timeline/).
     * Internet Society's [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/) series.
-* Types of Threats
-    * ENISA. [Reference Incident Classification Taxonomy](https://www.enisa.europa.eu/publications/reference-incident-classification-taxonomy).
-    * Europol. [Common Taxonomy for Law Enforcement and CSIRTs](https://www.europol.europa.eu/publications-documents/common-taxonomy-for-law-enforcement-and-csirts).
-* Opponents
+* Attack Lifecycle Models
+    * ATT&CK
+* TBD
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html)
-* Why Security is Hard
+* TBD
     * No mandatory reading
 
 
