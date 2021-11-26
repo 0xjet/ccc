@@ -24,9 +24,9 @@
     * Internet Society's [A Short History of the Internet](https://www.internetsociety.org/internet/history-internet/) series.
 * Attack Lifecycle Models
     * ATT&CK
-* TBD
+* Case Studies
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 2: Who is the Opponent?](https://www.cl.cam.ac.uk/~rja14/book.html)
-* TBD
+* Cyberwar
     * No mandatory reading
 
 
