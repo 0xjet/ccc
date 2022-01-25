@@ -3,7 +3,7 @@
 
 This is a short graduate course providing an introduction to the areas of crime, espionage and conflicts in cyberspace. The material is used for the _"Cybercrime, Cyberespionage, and Cyberwar"_ course currently taught in the [Master in Cybersecurity](https://www.uc3m.es/master/cybersecurity) at [UC3M](https://www.uc3m.es/Home).
 
-The course provides a gentle, not very technical introduction to various current security and privacy topics, including
+The course provides a gentle, not very technical introduction to several contemporary security and privacy topics, including
 * some bits of history,
 * opponents and the current cyberthreat landscape,
 * the underground economy of cybercrime,
