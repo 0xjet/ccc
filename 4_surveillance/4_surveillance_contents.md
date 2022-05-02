@@ -57,3 +57,4 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
 * Backdooring
     * Euractiv. [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). October 12, 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
+    * Hal Abelson et al. [The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption](https://academiccommons.columbia.edu/doi/10.7916/D8GM8F2W). June 28, 2010. 
