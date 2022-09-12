@@ -36,6 +36,11 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 The slides used in class for this module are available [here](https://github.com/0xjet/ccc/blob/main/1_hostilities/1_hostilities_slides.pdf).
 
 
+## Questions
+
+The list of questions for this module is available [here](https://github.com/0xjet/ccc/blob/main/1_hostilities/1_hostilities_questions.md).
+
+
 ## Further Reading
 
 * Juan Tapiador. [A book list on the computer underground culture](https://0xjet.github.io/3OHA/2021/03/24/post.html). 24 March 2021.
