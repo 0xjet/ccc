@@ -34,6 +34,11 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 The slides used in class for this module are available [here](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities/3_vulnerabilities_slides.pdf).
 
 
+## Questions
+
+The list of questions for this module are available [here](https://github.com/0xjet/ccc/blob/main/3_vulnerabilities/3_vulnerabilities_questions.md).
+
+
 ## Further Reading
 
 * Vulnerability disclosure
