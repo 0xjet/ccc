@@ -20,7 +20,10 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 ## Contents and Readings
 
 * Privacy
+    * Dan Solove. _Why Privacy Matters Even if You Have ‘Nothing to Hide’_, Chronicle, 2011. [link](https://www.cs.dartmouth.edu/~ccpalmer/teaching/cs55/Resources/Papers/Solove2011.pdf)
+    * Eric Hughes. [A cypherpunk’s manifesto](https://www.activism.net/cypherpunk/manifesto.html), 1993.  
 * The Crypto Wars
+    * Arvind Narayanan, _What happened to the crypto dream?_ IEEE Security & Privacy Magazine, 2013. [Part 1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) [Part 2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
 * Mass Surveillance
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
     * Sections 26.1, 26.2 and 26.6 are mandatory. The rest of the chapter is optional, but encouraged.
@@ -35,6 +38,8 @@ The slides used in class for this module are available [here](https://tbd).
 
 ## Further Reading
 
+* Crypto Wars
+    * D. Kehl, A. Wilson, K. Bankston. [Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s](https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf). New America, 2015.
 * Mass Surveillance
     * The Guardian. [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files).
     * Wikipedia. [Global surveillance disclosures (1970–2013)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(1970%E2%80%932013)).
