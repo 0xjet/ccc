@@ -36,6 +36,11 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 The slides used in class for this module are available [here](https://tbd).
 
 
+## Questions
+
+The list of questions for this module are available [here](https://github.com/0xjet/ccc/blob/main/4_surveillance/4_surveillance_questions.md).
+
+
 ## Further Reading
 
 * Crypto Wars
