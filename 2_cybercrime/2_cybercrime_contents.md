@@ -40,6 +40,8 @@ The list of questions for this module are available [here](https://github.com/0x
 
 ## Further Reading
 
+* Cybercrime conceptualization
+    * K. Phillips, J.C. Davidson, R.R. Farr, C. Burkhardt, S. Caneppele, and M.P. Aiken, [Conceptualizing Cybercrime: Definitions, Typologies and Taxonomies](https://www.mdpi.com/2673-6756/2/2/28/htm), Forensic Sciences 2022, 2(2), 379-398.
 * Threat landscape:
     * ENISA. [Threat Landscape](https://www.enisa.europa.eu/topics/threat-risk-management/threats-and-trends).
     * Magno Logan, Erika Mendoza, Ryan Maglaque, and Nikko Tamaña. [The State of Ransomware: 2020's Catch-22](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/the-state-of-ransomware-2020-s-catch-22). Trend Micro. February 03, 2021.
