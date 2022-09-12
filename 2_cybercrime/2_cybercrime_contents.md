@@ -31,6 +31,11 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 The slides used in class for this module are available [here](https://github.com/0xjet/ccc/blob/main/2_cybercrime/2_cybercrime_slides.pdf).
 
 
+## Questions
+
+The list of questions for this module are available [here](https://github.com/0xjet/ccc/blob/main/2_cybercrime/2_cybercrime_questions.md).
+
+
 ## Further Reading
 
 * Threat landscape:
