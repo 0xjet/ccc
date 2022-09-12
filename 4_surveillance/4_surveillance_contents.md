@@ -20,7 +20,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
 ## Contents and Readings
 
 * Privacy
-    * Dan Solove. _Why Privacy Matters Even if You Have ‘Nothing to Hide’_, Chronicle, 2011. [link](https://www.cs.dartmouth.edu/~ccpalmer/teaching/cs55/Resources/Papers/Solove2011.pdf)
+    * Dan Solove. [Why Privacy Matters Even if You Have ‘Nothing to Hide’](https://www.cs.dartmouth.edu/~ccpalmer/teaching/cs55/Resources/Papers/Solove2011.pdf), Chronicle, 2011.
     * Eric Hughes. [A cypherpunk’s manifesto](https://www.activism.net/cypherpunk/manifesto.html), 1993.  
 * The Crypto Wars
     * Arvind Narayanan, _What happened to the crypto dream?_ IEEE Security & Privacy Magazine, 2013. [Part 1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) [Part 2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
