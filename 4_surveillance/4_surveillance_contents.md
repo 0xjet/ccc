@@ -23,7 +23,7 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
     * Dan Solove. [Why Privacy Matters Even if You Have ‘Nothing to Hide’](https://www.cs.dartmouth.edu/~ccpalmer/teaching/cs55/Resources/Papers/Solove2011.pdf), Chronicle, 2011.
     * Eric Hughes. [A cypherpunk’s manifesto](https://www.activism.net/cypherpunk/manifesto.html), 1993.  
 * The Crypto Wars
-    * Arvind Narayanan, _What happened to the crypto dream?_ IEEE Security & Privacy Magazine, 2013. [Part 1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf) [Part 2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf)
+    * Arvind Narayanan, _What happened to the crypto dream?_ IEEE Security & Privacy Magazine, 2013. [Part 1](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part1.pdf), [Part 2](https://www.cs.princeton.edu/~arvindn/publications/crypto-dream-part2.pdf).
 * Mass Surveillance
     * Ross Anderson. _Security Engineering, 3rd Edition_. [Chapter 26: Surveillance or Privacy?](https://www.cl.cam.ac.uk/~rja14/book.html).
     * Sections 26.1, 26.2 and 26.6 are mandatory. The rest of the chapter is optional, but encouraged.
