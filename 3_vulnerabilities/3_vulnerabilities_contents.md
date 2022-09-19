@@ -58,6 +58,9 @@ The list of questions for this module are available [here](https://github.com/0x
     * Alex Hoffman. [Moral Hazards in Cyber Vulnerability Markets](https://ieeexplore.ieee.org/document/8909925). Computer, December 2019.
     * Halvar Flake. [Rashomon of disclosure](http://addxorrol.blogspot.com/2019/08/rashomon-of-disclosure.html). August 17, 2019.
     * Ivan Kwiatkowski. [We need to talk - opening a discussion about ethics in infosec](https://www.virusbulletin.com/conference/vb2019/abstracts/we-need-talk-opening-discussion-about-ethics-infosec/). Virus Bulletin 2019.
+* China's Regulations on the Management of Network Product Security Vulnerabilities (RMSV)
+    * S. Scott, S.A. Brackett, Y. Gambrill, E. Nettles, T. Herr. [Dragon tails: Preserving international cybersecurity research
+](https://www.atlanticcouncil.org/in-depth-research-reports/report/preserving-international-cybersecurity-research/). September 14, 2022.
 * Legal issues
     * EFF. [Coders’ Rights Project Vulnerability Reporting FAQ](https://www.eff.org/issues/coders/vulnerability-reporting-faq).
     * EFF. [Van Buren v. United States](https://www.eff.org/cases/van-buren-v-united-states). June 2021.
