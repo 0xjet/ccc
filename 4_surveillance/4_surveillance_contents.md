@@ -71,3 +71,4 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
     * Euractiv. [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). October 12, 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
     * Hal Abelson et al. [The Risks of Key Recovery, Key Escrow, and Trusted Third-Party Encryption](https://academiccommons.columbia.edu/doi/10.7916/D8GM8F2W). June 28, 2010. 
+    * Stephen Checkoway, Jacob Maskiewicz, Christina Garman, Joshua Fried, Shaanan Cohney, Matthew Green, Nadia Heninger, Ralf-Philipp Weinmann, Eric Rescorla, Hovav Shacham. [Where Did I Leave My Keys?: Lessons from the Juniper Dual EC Incident](https://cacm.acm.org/magazines/2018/11/232227-where-did-i-leave-my-keys/fulltext). Communications of the ACM, Nov. 2018.
