@@ -57,7 +57,7 @@ The list of questions for this module are available [here](https://github.com/0x
 * Hosting infrastructure:
     * Vladimir Kropotov, Robert McArdle, and Fyodor Yarochkin. [The Hacker Infrastructure and Underground Hosting: Services Used by Criminals](https://documents.trendmicro.com/assets/white_papers/wp-the-hacker-infrastructure-and-underground-hosting-services-used-by-criminals.pdf). Trend Micro. September 01, 2020.
 * Residential proxies:
-    * X. Mi, X. Feng, X. Liao, B. Liu, X. Wang, F. Qian, Z. Li, S. Alrwais, L. Sun, and Y. Liu. [Resident Evil: Understanding Residential IP Proxy as a Dark Service](10.1109/SP.2019.00011), IEEE Symposium on Security and Privacy, 2019.
+    * X. Mi, X. Feng, X. Liao, B. Liu, X. Wang, F. Qian, Z. Li, S. Alrwais, L. Sun, and Y. Liu. [Resident Evil: Understanding Residential IP Proxy as a Dark Service](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835239), IEEE Symposium on Security and Privacy, 2019.
 * Click fraud:
      * Martin Laine. [How a Russian Mobile App Developer Recruited Phones into a Secret Ad-Watching Robot Army](https://www.occrp.org/en/investigations/how-a-russian-mobile-app-developer-recruited-phones-into-a-secret-ad-watching-robot-army). OCCRP, 9 September 2021.
 * Phone scams:
