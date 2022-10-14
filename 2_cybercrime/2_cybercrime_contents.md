@@ -64,5 +64,6 @@ The list of questions for this module are available [here](https://github.com/0x
     * Jim Browning. [Spying on the Scammers [Parts 1-4]](https://www.youtube.com/watch?v=le71yVPh4uk&list=PLBNmQJqxpaMaxqghShRiOnHUjO00ZCsor). Mar 2, 2020.
 * Cybercrime supply chains:
     * R. Bhalerao, M. Aliapoulios, I. Shumailov, S. Afroz, D. McCoy. [Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](https://damonmccoy.com/papers/ecrime2019.pdf), eCrime 2019.
+    * J. Inclan. [Emotet Exposed: A Look Inside the Cybercriminal Supply Chain](https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cybercriminal-supply-chain.html), VMware Security Blog, October 2022.
 
 
