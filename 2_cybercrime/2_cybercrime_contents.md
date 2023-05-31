@@ -65,5 +65,6 @@ The list of questions for this module are available [here](https://github.com/0x
 * Cybercrime supply chains:
     * R. Bhalerao, M. Aliapoulios, I. Shumailov, S. Afroz, D. McCoy. [Mapping the Underground: Supervised Discovery of Cybercrime Supply Chains](https://damonmccoy.com/papers/ecrime2019.pdf), eCrime 2019.
     * J. Inclan. [Emotet Exposed: A Look Inside the Cybercriminal Supply Chain](https://blogs.vmware.com/security/2022/10/emotet-exposed-a-look-inside-the-cybercriminal-supply-chain.html), VMware Security Blog, October 2022.
+    * WithSecure. [The Professionalization of Cyber Crime](https://www.withsecure.com/content/dam/with-secure/en/resources/WS_Professionalisation_of_CyberCrime_EN.pdf), 2023.
 
 
