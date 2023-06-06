@@ -46,6 +46,7 @@ The list of questions for this module are available [here](https://github.com/0x
 * Crypto Wars
     * D. Kehl, A. Wilson, K. Bankston. [Doomed to Repeat History? Lessons from the Crypto Wars of the 1990s](https://static.newamerica.org/attachments/3407-doomed-to-repeat-history-lessons-from-the-crypto-wars-of-the-1990s/Crypto%20Wars_ReDo.7cb491837ac541709797bdf868d37f52.pdf). New America, 2015.
 * Mass Surveillance
+    * S. Farrell, F. Badii, B. Schneier, S. M. Bellovin. [Reflections on Ten Years Past The Snowden Revelations](https://www.ietf.org/id/draft-farrell-tenyearsafter-00.html), Internet Draft, May 2023.
     * The Guardian. [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files).
     * Wikipedia. [Global surveillance disclosures (1970–2013)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(1970%E2%80%932013)).
     * Wikipedia. [Global surveillance disclosures (2013–present)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)).
