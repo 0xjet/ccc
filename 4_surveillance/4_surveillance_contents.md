@@ -69,6 +69,9 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
     * Alex Pasternack. [A showdown between an ad tech firm and the FTC will test the limits of U.S. privacy law](https://www.fastcompany.com/90786950/a-showdown-between-an-ad-tech-firm-and-the-ftc-will-test-the-limits-of-u-s-privacy-law). Fast Company. August 9, 2022.
     * Joseph Cox. [Revealed: U.S. Military Bought Mass Monitoring Tool That Includes Internet Browsing, Email Data
 ](https://www.vice.com/en/article/y3pnkw/us-military-bought-mass-monitoring-augury-team-cymru-browsing-email-data). Vice. September 21, 2022
+    * Anne Toomey McKenna. [Why US agencies buy personal info and what it means in the age of AI](https://www.militarytimes.com/opinion/2023/06/29/why-us-agencies-buy-personal-info-and-what-it-means-in-the-age-of-ai/). Jun 29, 2023.
+    * ODNI. [Partially declassified report on the Intelligence Community’s (IC) purchase of commercially available information (CAI)](https://www.dni.gov/files/ODNI/documents/assessments/ODNI-Declassified-Report-on-CAI-January2022.pdf). January 27, 2022.
+    * Center for Democracy & Technology. [Legal Loopholes and Data for Dollars: How Law Enforcement and Intelligence Agencies Are Buying Your Data from Brokers](https://cdt.org/wp-content/uploads/2021/12/2021-12-08-Legal-Loopholes-and-Data-for-Dollars-Report-final.pdf). December 2021.
 * Backdooring
     * Euractiv. [Five Eyes alliance demands ways to access encrypted apps](https://www.euractiv.com/section/cybersecurity/news/five-eyes-alliance-demands-ways-to-access-encrypted-apps/). October 12, 2020.
     * Hal Abelson et al. [Bugs in our Pockets: The Risks of Client-Side Scanning](https://arxiv.org/abs/2110.07450). October 15, 2021.
