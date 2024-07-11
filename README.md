@@ -7,7 +7,7 @@ The course provides a gentle, not very technical introduction to several contemp
 * some bits of history,
 * opponents and the current cyberthreat landscape,
 * the underground economy of cybercrime,
-* vulnerabilities, exploits and their markets,
+* vulnerabilities, exploits and their markets, and
 * privacy and surveillance --including commercial surveillance--, and
 * state-sponsored cyberoperations.
 
@@ -53,28 +53,23 @@ Class recordings are not available yet.
     * Mass Surveillance
     * Commercial Surveillance
 
-* [Module 5. Cyberoperations](https://github.com/0xjet/ccc/blob/main/5_operations/5_operations_contents.md)
-    * Operations in Cyberspace
-    * The ATT&CK Framework
-    * APTs and State-sponsored Operations
-
 
 ## Schedule and Assessment
 
 The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week. Each module is covered in one week, plus time off class for self-study and work on assignments. The last week is used to review contents and explore other topics and directions from here.
 
 The assessment activitites include:
-* Three quizzes spaced throughout the term (weeks 2, 4, and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
+* Two quizzes spaced throughout the term (weeks 3 and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
 * A workbook handed in the last day with solutions to 4 activities chosen from those available across all modules. _Grading: 40%_
 
 | Week | Module                                      | Assessment activitities                  |
 | ---- | ------------------------------------------- | ---------------------------------------- | 
 | 1    | Hostilities in Cyberspace                   |                                          |
-| 2    | Cybercrime and its Underground Economy      | Quizz 1 (Module 1)                       |
-| 3    | Vulnerabilities, Exploits, and their Market |                                          |
-| 4    | Privacy and Surveillance                    | Quizz 2 (Modules 2 and 3)                |
-| 5    | Cyberoperations                             |                                          |
-| 6    | Course Wrap Up                              | Quizz 3 (Modules 4 and 5) <br/> Workbook |
+| 2    | Cybercrime and its Underground Economy (I)  |                                          |
+| 3    | Cybercrime and its Underground Economy (II) | Quizz 1 (Modules 1 and 2)                |
+| 4    | Vulnerabilities, Exploits, and their Market |                                          |
+| 5    | Privacy and Surveillance                    |                                          |
+| 6    | Course Wrap Up                              | Quizz 2 (Modules 3 and 4) <br/> Workbook |
 
 
 ## License
