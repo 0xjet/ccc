@@ -50,10 +50,14 @@ The list of questions for this module are available [here](https://github.com/0x
     * Krebs on Security. [Confessions of an ID Theft Kingpin, Part I](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-i/). August 26, 2020.
     * Krebs on Security. [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/). August 27, 2020.
     * K. Tomas et al. [Data breaches, phishing, or malware? Understanding the risks of stolen credentials](https://research.google/pubs/pub46437/). CCS 2017.
+* Ransomware:
+    * UK NCSC and NCA. [Ransomware, extortion and the cyber crime ecosystem](https://www.ncsc.gov.uk/whitepaper/ransomware-extortion-and-the-cyber-crime-ecosystem). September 11, 2023. 
 * Botnets:
     * Mark Bowden. [The Worm That Nearly Ate the Internet](https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html). New York Times. June 29, 2019.
     * [Operation Tovar](https://en.wikipedia.org/wiki/Operation_Tovar). Wikipedia.
     * M. Antonakakis et al. [Understanding the Mirai Botnet](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis). USENIX Security 2017.
+* Stealers:
+    * Quentin Bourgue, Livia Tibirna and Sekoia TDR. [Traffers: a deep dive into the information stealer ecosystem](https://blog.sekoia.io/traffers-a-deep-dive-into-the-information-stealer-ecosystem/). August 29, 2022
 * Hosting infrastructure:
     * Vladimir Kropotov, Robert McArdle, and Fyodor Yarochkin. [The Hacker Infrastructure and Underground Hosting: Services Used by Criminals](https://documents.trendmicro.com/assets/white_papers/wp-the-hacker-infrastructure-and-underground-hosting-services-used-by-criminals.pdf). Trend Micro. September 01, 2020.
 * Residential proxies:
