@@ -51,7 +51,8 @@ The list of questions for this module are available [here](https://github.com/0x
     * Krebs on Security. [Confessions of an ID Theft Kingpin, Part II](https://krebsonsecurity.com/2020/08/confessions-of-an-id-theft-kingpin-part-ii/). August 27, 2020.
     * K. Tomas et al. [Data breaches, phishing, or malware? Understanding the risks of stolen credentials](https://research.google/pubs/pub46437/). CCS 2017.
 * Ransomware:
-    * UK NCSC and NCA. [Ransomware, extortion and the cyber crime ecosystem](https://www.ncsc.gov.uk/whitepaper/ransomware-extortion-and-the-cyber-crime-ecosystem). September 11, 2023. 
+    * UK NCSC and NCA. [Ransomware, extortion and the cyber crime ecosystem](https://www.ncsc.gov.uk/whitepaper/ransomware-extortion-and-the-cyber-crime-ecosystem). September 11, 2023.
+    * Josh Highet. [Ransomwatch](https://github.com/joshhighet/ransomwatch). 
 * Botnets:
     * Mark Bowden. [The Worm That Nearly Ate the Internet](https://www.nytimes.com/2019/06/29/opinion/sunday/conficker-worm-ukraine.html). New York Times. June 29, 2019.
     * [Operation Tovar](https://en.wikipedia.org/wiki/Operation_Tovar). Wikipedia.
