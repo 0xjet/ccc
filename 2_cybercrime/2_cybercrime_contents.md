@@ -58,8 +58,9 @@ The list of questions for this module are available [here](https://github.com/0x
     * M. Antonakakis et al. [Understanding the Mirai Botnet](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/antonakakis). USENIX Security 2017.
 * Stealers:
     * Quentin Bourgue, Livia Tibirna and Sekoia TDR. [Traffers: a deep dive into the information stealer ecosystem](https://blog.sekoia.io/traffers-a-deep-dive-into-the-information-stealer-ecosystem/). August 29, 2022
-* Hosting infrastructure:
+* Hosting infrastructure: 
     * Vladimir Kropotov, Robert McArdle, and Fyodor Yarochkin. [The Hacker Infrastructure and Underground Hosting: Services Used by Criminals](https://documents.trendmicro.com/assets/white_papers/wp-the-hacker-infrastructure-and-underground-hosting-services-used-by-criminals.pdf). Trend Micro. September 01, 2020.
+    * Brian Krebs. [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/). Krebs on Security. May 23, 2024.
 * Residential proxies:
     * X. Mi, X. Feng, X. Liao, B. Liu, X. Wang, F. Qian, Z. Li, S. Alrwais, L. Sun, and Y. Liu. [Resident Evil: Understanding Residential IP Proxy as a Dark Service](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8835239), IEEE Symposium on Security and Privacy, 2019.
 * Click fraud:
