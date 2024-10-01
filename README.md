@@ -59,17 +59,17 @@ Class recordings are not available yet.
 The course is designed to be taught over a 6-week term, with two 1.5-hour sessions per week. Each module is covered in one week, plus time off class for self-study and work on assignments. The last week is used to review contents and explore other topics and directions from here.
 
 The assessment activitites include:
-* Two quizzes spaced throughout the term (weeks 3 and 6). All quizzes are closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 20% each_.
-* A workbook handed in the last day with solutions to 4 activities chosen from those available across all modules. _Grading: 40%_
+* One quizz on Week 5. The quizz is closed book and closed notes. Access to the Internet via any device is not allowed. _Grading: 40%_.
+* An assignment done individually or in pairs on a topic related to the course contents. A list of topic examples will be provided. _Grading: 60%_
 
 | Week | Module                                      | Assessment activitities                  |
 | ---- | ------------------------------------------- | ---------------------------------------- | 
 | 1    | Hostilities in Cyberspace                   |                                          |
 | 2    | Cybercrime and its Underground Economy (I)  |                                          |
-| 3    | Cybercrime and its Underground Economy (II) | Quizz 1 (Modules 1 and 2)                |
+| 3    | Cybercrime and its Underground Economy (II) |                                          |
 | 4    | Vulnerabilities, Exploits, and their Market |                                          |
-| 5    | Privacy and Surveillance                    |                                          |
-| 6    | Course Wrap Up                              | Quizz 2 (Modules 3 and 4) <br/> Workbook |
+| 5    | Privacy and Surveillance                    | Quizz                                    |
+| 6    | Course Wrap Up                              | Assignment                               |
 
 
 ## License
