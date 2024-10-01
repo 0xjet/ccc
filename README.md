@@ -29,6 +29,8 @@ Class recordings are not available yet.
 
 ## Syllabus
 
+* [Course Introduction](https://github.com/0xjet/ccc/blob/main/0_introduction/0_intro_slides.pdf)
+
 * [Module 1. Hostilities in Cyberspace](https://github.com/0xjet/ccc/blob/main/1_hostilities/1_hostilities_contents.md)
     * A Brief History of the Internet
     * Threats
