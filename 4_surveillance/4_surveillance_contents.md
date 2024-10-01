@@ -50,7 +50,7 @@ The list of questions for this module are available [here](https://github.com/0x
     * The Guardian. [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files).
     * Wikipedia. [Global surveillance disclosures (1970–2013)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(1970%E2%80%932013)).
     * Wikipedia. [Global surveillance disclosures (2013–present)](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013%E2%80%93present)).
-* Phone Spying
+* Spyware
     * Yomna N. [Gotta Catch 'Em All: Understanding How IMSI-Catchers Exploit Cell Networks](https://www.eff.org/wp/gotta-catch-em-all-understanding-how-imsi-catchers-exploit-cell-networks). Electronic Frontier Foundation. June 28, 2019.
     * Chris Paget. [Practical Cellphone Spying](https://www.youtube.com/watch?v=fQSu9cBaojc). DEFCON 18.
     * Bill Marczak, John Scott-Railton, Sarah McKune, Bahr Abdul Razzak, and Ron
@@ -58,6 +58,7 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
     * Forbidden Stories. [The Pegasus Project](https://forbiddenstories.org/case/the-pegasus-project/). 2021.
     * Amnesty International. [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/). July 18, 2021.
     * Cisco Talos. [Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware](https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/). December 21, 2023.
+    * Jen Roberts, Trey Herr, Nitansha Bansal, and Nancy Messieh, with Emma Taylor, Jean Le Roux, and Sopo Gelava. [Mythical Beasts and Where to Find Them: Mapping the Global Spyware Market and its Threats to National Security and Human Rights](https://dfrlab.org/2024/09/04/mythical-beasts-and-where-to-find-them-report/). Digital Forensic Research Lab (DFRLab), Atlantic Council. September 4, 2024.
 * The Greek Wiretapping Case
     * Vassilis Prevelakis and Diomidis Spinellis. [The Athens Affair](https://spectrum.ieee.org/the-athens-affair). IEEE Spectrum. 29 June 2007.
     * Malcolm Brabant. [Greek scandal sees Vodafone fined](http://news.bbc.co.uk/2/hi/business/6182647.stm). BBC Nwws. 15 December 2006.
