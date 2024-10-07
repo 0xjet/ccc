@@ -59,10 +59,11 @@ Deibert. [Hide and Seek: Tracking NSO Group’s Pegasus Spyware to Operations in
     * Amnesty International. [Forensic Methodology Report: How to catch NSO Group’s Pegasus](https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/). July 18, 2021.
     * Cisco Talos. [Intellexa and Cytrox: From fixer-upper to Intel Agency-grade spyware](https://blog.talosintelligence.com/intellexa-and-cytrox-intel-agency-grade-spyware/). December 21, 2023.
     * Jen Roberts, Trey Herr, Nitansha Bansal, and Nancy Messieh, with Emma Taylor, Jean Le Roux, and Sopo Gelava. [Mythical Beasts and Where to Find Them: Mapping the Global Spyware Market and its Threats to National Security and Human Rights](https://dfrlab.org/2024/09/04/mythical-beasts-and-where-to-find-them-report/). Digital Forensic Research Lab (DFRLab), Atlantic Council. September 4, 2024.
-* The Greek Wiretapping Case
+* The Greek Wiretapping Case and Other Compromises of Legal Interception Systems
     * Vassilis Prevelakis and Diomidis Spinellis. [The Athens Affair](https://spectrum.ieee.org/the-athens-affair). IEEE Spectrum. 29 June 2007.
-    * Malcolm Brabant. [Greek scandal sees Vodafone fined](http://news.bbc.co.uk/2/hi/business/6182647.stm). BBC Nwws. 15 December 2006.
+    * Malcolm Brabant. [Greek scandal sees Vodafone fined](http://news.bbc.co.uk/2/hi/business/6182647.stm). BBC News. 15 December 2006.
     * James Bamford. [A Death in Athens](https://theintercept.com/2015/09/28/death-athens-rogue-nsa-operation/). The Intercept. September 29, 2015.
+    * Sarah Krouse, Dustin Volz, Aruna Viswanatha, Robert McMillan. [U.S. Wiretap Systems Targeted in China-Linked Hack](https://www.wsj.com/tech/cybersecurity/u-s-wiretap-systems-targeted-in-china-linked-hack-327fc63b?utm_source=www.vulnu.com&utm_medium=referral&utm_campaign=government-wiretaps-in-u-s-internet-providers-infiltrated-by-chinese-hackers). The Wall Street Journal, Oct. 5, 2024.
 * Commercial Surveillance
     * Wolfie Christl and Sarah Spiekermann. [Networks of Control: A Report on Corporate Surveillance, Digital Tracking, Big Data & Privacy](https://crackedlabs.org/en/networksofcontrol), 2016.
     * Aaron Sankin. [I Scanned the Websites I Visit with Blacklight, and It’s Horrifying. Now What?](https://themarkup.org/ask-the-markup/2020/09/22/i-scanned-the-websites-i-visit-with-blacklight-and-its-horrifying-now-what). The Markup. September 22, 2020.
