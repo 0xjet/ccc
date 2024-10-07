@@ -52,6 +52,7 @@ The list of questions for this module are available [here](https://github.com/0x
     * Project Zero. [A very deep dive into iOS Exploit chains found in the wild ](https://googleprojectzero.blogspot.com/2019/08/a-very-deep-dive-into-ios-exploit.html). August 29, 2019.
     * Risky Business. [Risky Biz Feature Interview: Mark Dowd on the 0day market and future of exceptional access](https://risky.biz/HF13/). Oct 19, 2021.
     * Mark Dowd. [Inside The Zero Day Market](https://github.com/mdowd79/presentations/blob/main/bluehat2023-mdowd-final.pdf). BlueHat IL, 2024.
+    * Clement Lecigne. [State-backed attackers and commercial surveillance vendors repeatedly use the same exploits](https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/). Google Threat Analysis Group. Aug 29, 2024.
 * Ethics and disclosure
     * Michael Daniel. [Heartbleed: Understanding When We Disclose Cyber Vulnerabilities](https://obamawhitehouse.archives.gov/blog/2014/04/28/heartbleed-understanding-when-we-disclose-cyber-vulnerabilities). The White House, 28 April 2014.
     * Bruce Schneier. [Should U.S. Hackers Fix Cybersecurity Holes or Exploit Them?](https://www.theatlantic.com/technology/archive/2014/05/should-hackers-fix-cybersecurity-holes-or-exploit-them/371197/). The Atlantic, 19 May 2014.
