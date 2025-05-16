@@ -11,7 +11,7 @@ The course provides a gentle, not very technical introduction to several contemp
 * privacy and surveillance --including commercial surveillance--, and
 * state-sponsored cyberoperations.
 
-The main goal of the course is to provide students who approach cybersecurity with little-to-none previous backgound with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences and a few key topics are certainly missing, but this is a short (6 weeks) course and there is no room for more. The material can be extended with some extra effort to make up for these limitations.
+The main goal of the course is to provide students who approach cybersecurity with little-to-none previous background with a socio-techno-economic perspective of current security and privacy phenomena in the Internet, how we got here, and what might be done about it. The treatment of some topis might be too superficial for some audiences and a few key topics are certainly missing, but this is a short (6 weeks) course and there is no room for more. The material can be extended with some extra effort to make up for these limitations.
 
 
 ## Contents of this Repository
