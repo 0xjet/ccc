@@ -27,7 +27,8 @@ This module of the course on [Cybercrime, Cyberespionage and Cyberconflicts](htt
     * L. Ablon and A. Bogart. [Zero Days, Thousands of Nights: The Life and Times of Zero-Day Vulnerabilities and Their Exploits](https://www.rand.org/pubs/research_reports/RR1751.html). RAND Corporation, 9 March 2017.
 * The Ethics of Vulnerability Research
     * Bynum, Terrell, [Computer and Information Ethics](https://plato.stanford.edu/archives/sum2018/entries/ethics-computer/), The Stanford Encyclopedia of Philosophy (Summer 2018 Edition), Edward N. Zalta (ed.).
-
+* Private Sector Offensive Actors
+    * W. DeSombre Bernsen and s. Bratus. [From Chaos to Cabapility: Building the U.S. Market for Offensive Cyber](https://sergeybratus.gitlab.io/papers/DartmouthCyberRoundtable2025.pdf), October 2025.
 
 ## Slides
 
